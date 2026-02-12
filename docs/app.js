@@ -21,7 +21,7 @@
 
       const date = document.createElement("div");
       date.className = "bird-date";
-      date.textContent = formatDate(row.datetime);
+      date.textContent = formatDetectionWindow(row.datetime_start, row.datetime_end);
       card.appendChild(date);
 
       const main = document.createElement("div");
@@ -39,12 +39,6 @@
       } else {
         main.textContent = displayName;
       }
-      if ((row.count || 1) > 1) {
-        const count = document.createElement("span");
-        count.className = "ml-2 inline-flex rounded-full bg-emerald-100 px-2 py-0.5 text-xs font-medium text-emerald-800";
-        count.textContent = "x" + row.count;
-        main.appendChild(count);
-      }
       const sci = document.createElement("div");
       sci.className = "bird-sci";
       sci.textContent = row.sci_name || "";
@@ -55,7 +49,7 @@
     }
 
     tbody.replaceChildren(fragment);
-    status.textContent = "Les oiseaux de Palaiseau - " + data.length + " détections.";
+    status.textContent = "Les oiseaux de Palaiseau";
   } catch (err) {
     status.textContent = "Erreur: " + (err && err.message ? err.message : String(err));
   }
@@ -71,6 +65,43 @@ function formatDate(value) {
     hour: "2-digit",
     minute: "2-digit",
   });
+}
+
+function formatDetectionWindow(startValue, endValue) {
+  const startMs = Date.parse(startValue || "");
+  const endMs = Date.parse(endValue || "");
+  if (Number.isNaN(startMs) && Number.isNaN(endMs)) return "";
+  if (Number.isNaN(startMs)) return formatDate(endValue);
+  if (Number.isNaN(endMs)) return formatDate(startValue);
+
+  const start = new Date(startMs);
+  const end = new Date(endMs);
+  const startText = formatDate(startValue);
+  const endText = formatDate(endValue);
+  if (startText === endText) return startText;
+
+  const sameDay =
+    start.getFullYear() === end.getFullYear() &&
+    start.getMonth() === end.getMonth() &&
+    start.getDate() === end.getDate();
+
+  if (!sameDay) return startText + " -> " + endText;
+
+  const dayText = start.toLocaleDateString("fr-FR", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  });
+  const startTime = start.toLocaleTimeString("fr-FR", {
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+  const endTime = end.toLocaleTimeString("fr-FR", {
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+  if (startTime === endTime) return dayText + " " + startTime;
+  return dayText + " " + startTime + " -> " + endTime;
 }
 
 function wikipediaFrUrl(scientificName) {

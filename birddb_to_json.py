@@ -55,15 +55,15 @@ def convert_birddb_to_records(birddb_path: str, labels: dict[str, str]) -> list[
     for row in records:
         last = grouped[-1] if grouped else None
         if last and last["sci_name"] == row["sci_name"]:
-            last["count"] += 1
+            last["datetime_end"] = row["dt"].isoformat()
             continue
 
         grouped.append(
             {
-                "datetime": row["dt"].isoformat(),
+                "datetime_start": row["dt"].isoformat(),
+                "datetime_end": row["dt"].isoformat(),
                 "sci_name": row["sci_name"],
                 "com_name": row["com_name"],
-                "count": 1,
             }
         )
 
