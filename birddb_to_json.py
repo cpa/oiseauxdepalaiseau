@@ -31,9 +31,7 @@ def convert_birddb_to_records(birddb_path: str, labels: dict[str, str]) -> list[
             date_str = (row.get("Date") or "").strip()
             time_str = (row.get("Time") or "").strip()
             sci_name = (row.get("Sci_Name") or "").strip()
-            confidence_str = (row.get("Confidence") or "").strip()
-
-            if not (date_str and time_str and sci_name and confidence_str):
+            if not (date_str and time_str and sci_name):
                 continue
 
             try:
@@ -41,23 +39,35 @@ def convert_birddb_to_records(birddb_path: str, labels: dict[str, str]) -> list[
             except ValueError:
                 continue
 
-            try:
-                confidence = float(confidence_str)
-            except ValueError:
-                continue
-
             french_name = labels.get(sci_name, "")
 
             records.append(
                 {
-                    "datetime": dt.isoformat(),
+                    "dt": dt,
                     "sci_name": sci_name,
                     "com_name": french_name,
-                    "confidence": confidence,
                 }
             )
 
-    return records
+    records.sort(key=lambda item: item["dt"], reverse=True)
+
+    grouped: list[dict] = []
+    for row in records:
+        last = grouped[-1] if grouped else None
+        if last and last["sci_name"] == row["sci_name"]:
+            last["count"] += 1
+            continue
+
+        grouped.append(
+            {
+                "datetime": row["dt"].isoformat(),
+                "sci_name": row["sci_name"],
+                "com_name": row["com_name"],
+                "count": 1,
+            }
+        )
+
+    return grouped
 
 
 def main() -> None:

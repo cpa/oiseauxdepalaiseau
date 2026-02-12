@@ -24,17 +24,15 @@
     const fragment = document.createDocumentFragment();
     for (const row of folded) {
       const tr = document.createElement("tr");
+      tr.className = "bird-row";
 
       const tdDate = document.createElement("td");
+      tdDate.className = "bird-date";
       tdDate.textContent = formatDate(row.datetime);
       tr.appendChild(tdDate);
 
-      const tdSci = document.createElement("td");
-      tdSci.className = "sci";
-      tdSci.textContent = row.sci_name || "";
-      tr.appendChild(tdSci);
-
       const tdCommon = document.createElement("td");
+      tdCommon.className = "bird-main";
       const displayName = row.com_name || row.sci_name || "";
       const wikiUrl = wikipediaFrUrl(row.sci_name || "");
       if (wikiUrl) {
@@ -54,6 +52,10 @@
         count.textContent = "x" + row.count;
         tdCommon.appendChild(count);
       }
+      const sci = document.createElement("div");
+      sci.className = "bird-sci";
+      sci.textContent = row.sci_name || "";
+      tdCommon.appendChild(sci);
       tr.appendChild(tdCommon);
 
       fragment.appendChild(tr);
