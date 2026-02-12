@@ -1,14 +1,7 @@
 (async function main() {
   const status = document.getElementById("status");
   const tbody = document.getElementById("rows");
-  const cfg = window.APP_CONFIG || {};
-  const dataUrl = cfg.DATA_URL;
-
-  if (!dataUrl) {
-    status.textContent =
-      "Missing data URL. Set DATA_JSON_URL in GitHub repository variables.";
-    return;
-  }
+  const dataUrl = "https://cpa.github.io/oiseauxdemassy/birddb.json";
 
   try {
     const res = await fetch(dataUrl, { cache: "no-store" });

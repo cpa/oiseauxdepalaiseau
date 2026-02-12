@@ -20,23 +20,17 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    env:
-      DATA_JSON_URL: ${{ vars.DATA_JSON_URL }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate site config
+      - name: Copy birddb.json to site folder
         run: |
-          if [ -z "$DATA_JSON_URL" ]; then
-            echo "Missing repository variable DATA_JSON_URL"
+          if [ ! -f birddb.json ]; then
+            echo "Missing birddb.json in repository root"
             exit 1
           fi
-          cat > docs/config.js <<EOF
-          window.APP_CONFIG = {
-            DATA_URL: "${DATA_JSON_URL}"
-          };
-          EOF
+          cp birddb.json docs/birddb.json
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
