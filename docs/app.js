@@ -14,15 +14,36 @@
       throw new Error("Le JSON doit etre un tableau.");
     }
 
+    const uniqueSpecies = new Set(
+      data.map((row) => (row.sci_name || "").trim()).filter((name) => name.length > 0)
+    );
+    const imagePromises = new Map();
+    for (const sciName of uniqueSpecies) {
+      imagePromises.set(sciName, getBirdImageUrl(sciName));
+    }
+
     const fragment = document.createDocumentFragment();
     for (const row of data) {
       const card = document.createElement("article");
       card.className = "bird-row";
 
+      const media = document.createElement("div");
+      media.className = "bird-media";
+      const image = document.createElement("img");
+      image.className = "bird-image";
+      image.alt = row.com_name || row.sci_name || "Oiseau";
+      image.loading = "lazy";
+      image.decoding = "async";
+      media.appendChild(image);
+      card.appendChild(media);
+
+      const content = document.createElement("div");
+      content.className = "bird-content";
+
       const date = document.createElement("div");
       date.className = "bird-date";
       date.textContent = formatDetectionWindow(row.datetime_start, row.datetime_end);
-      card.appendChild(date);
+      content.appendChild(date);
 
       const main = document.createElement("div");
       main.className = "bird-main";
@@ -43,7 +64,23 @@
       sci.className = "bird-sci";
       sci.textContent = row.sci_name || "";
       main.appendChild(sci);
-      card.appendChild(main);
+      content.appendChild(main);
+      card.appendChild(content);
+
+      const sciKey = (row.sci_name || "").trim();
+      const imagePromise = imagePromises.get(sciKey);
+      if (imagePromise) {
+        imagePromise.then((url) => {
+          if (url) {
+            image.src = url;
+            image.classList.add("is-ready");
+          } else {
+            image.classList.add("is-missing");
+          }
+        });
+      } else {
+        image.classList.add("is-missing");
+      }
 
       fragment.appendChild(card);
     }
@@ -108,4 +145,46 @@ function wikipediaFrUrl(scientificName) {
   const name = scientificName.trim();
   if (!name) return "";
   return "https://fr.wikipedia.org/wiki/" + encodeURIComponent(name.replace(/\s+/g, "_"));
+}
+
+async function getBirdImageUrl(scientificName) {
+  const wikiImage = await getWikipediaFrImage(scientificName);
+  if (wikiImage) return wikiImage;
+  return getFlickrImage(scientificName);
+}
+
+async function getWikipediaFrImage(scientificName) {
+  try {
+    const title = encodeURIComponent(scientificName.trim().replace(/\s+/g, "_"));
+    if (!title) return "";
+    const url = "https://fr.wikipedia.org/api/rest_v1/page/summary/" + title;
+    const res = await fetch(url, { cache: "force-cache" });
+    if (!res.ok) return "";
+    const payload = await res.json();
+    const thumb =
+      (payload && payload.thumbnail && payload.thumbnail.source) ||
+      (payload && payload.originalimage && payload.originalimage.source) ||
+      "";
+    return typeof thumb === "string" ? thumb : "";
+  } catch {
+    return "";
+  }
+}
+
+async function getFlickrImage(scientificName) {
+  try {
+    const tags = encodeURIComponent(scientificName.trim());
+    if (!tags) return "";
+    const url =
+      "https://www.flickr.com/services/feeds/photos_public.gne?format=json&nojsoncallback=1&tags=" +
+      tags;
+    const res = await fetch(url, { cache: "force-cache" });
+    if (!res.ok) return "";
+    const payload = await res.json();
+    if (!payload || !Array.isArray(payload.items) || payload.items.length === 0) return "";
+    const media = payload.items[0] && payload.items[0].media ? payload.items[0].media.m : "";
+    return typeof media === "string" ? media : "";
+  } catch {
+    return "";
+  }
 }
