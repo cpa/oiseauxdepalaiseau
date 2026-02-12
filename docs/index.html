@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bird Detections</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="min-h-screen bg-gradient-to-br from-emerald-50 via-lime-50 to-stone-100 text-slate-900">
+    <main class="mx-auto max-w-6xl px-4 py-8 md:px-6 md:py-10">
+      <h1 class="text-3xl font-bold tracking-tight md:text-4xl">Bird Species Timeline</h1>
+      <p class="mt-2 text-sm text-slate-600 md:text-base">
+        Sorted in reverse chronological order (newest first).
+      </p>
+      <section class="mt-6 overflow-hidden rounded-xl border border-emerald-100 bg-white/90 shadow-sm">
+        <div class="overflow-x-auto">
+          <table class="min-w-full text-sm">
+            <thead class="bg-emerald-50 text-left text-xs font-semibold uppercase tracking-wide text-emerald-900">
+              <tr>
+                <th class="px-4 py-3">Date &amp; Time</th>
+                <th class="px-4 py-3">Scientific Name</th>
+                <th class="px-4 py-3">French Name</th>
+                <th class="px-4 py-3">Wikipedia</th>
+                <th class="hidden px-4 py-3 md:table-cell">Confidence</th>
+              </tr>
+            </thead>
+            <tbody id="rows" class="divide-y divide-emerald-100"></tbody>
+          </table>
+        </div>
+      </section>
+      <p id="status" class="mt-3 text-sm text-slate-600">Loading data...</p>
+      <template id="badge-template">
+        <span class="inline-flex rounded-full bg-emerald-700 px-2 py-1 text-xs font-medium text-white"></span>
+      </template>
+      <style>
+        #rows td {
+          padding: 0.75rem 1rem;
+          vertical-align: top;
+        }
+        #rows td:nth-child(2) {
+          font-style: italic;
+        }
+        #rows td:nth-child(5) {
+          display: none;
+        }
+        @media (min-width: 768px) {
+          #rows td:nth-child(5) {
+            display: table-cell;
+          }
+        }
+      </style>
+    </main>
+    <script src="./config.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
