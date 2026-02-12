@@ -111,34 +111,36 @@ function formatDetectionWindow(startValue, endValue) {
   if (Number.isNaN(startMs)) return formatDate(endValue);
   if (Number.isNaN(endMs)) return formatDate(startValue);
 
-  const start = new Date(startMs);
-  const end = new Date(endMs);
-  const startText = formatDate(startValue);
-  const endText = formatDate(endValue);
-  if (startText === endText) return startText;
+  const fromMs = Math.min(startMs, endMs);
+  const toMs = Math.max(startMs, endMs);
+  const from = new Date(fromMs);
+  const to = new Date(toMs);
+  const fromText = formatDate(from.toISOString());
+  const toText = formatDate(to.toISOString());
+  if (fromText === toText) return fromText;
 
   const sameDay =
-    start.getFullYear() === end.getFullYear() &&
-    start.getMonth() === end.getMonth() &&
-    start.getDate() === end.getDate();
+    from.getFullYear() === to.getFullYear() &&
+    from.getMonth() === to.getMonth() &&
+    from.getDate() === to.getDate();
 
-  if (!sameDay) return startText + " → " + endText;
+  if (!sameDay) return fromText + " → " + toText;
 
-  const dayText = start.toLocaleDateString("fr-FR", {
+  const dayText = from.toLocaleDateString("fr-FR", {
     year: "numeric",
     month: "2-digit",
     day: "2-digit",
   });
-  const startTime = start.toLocaleTimeString("fr-FR", {
+  const fromTime = from.toLocaleTimeString("fr-FR", {
     hour: "2-digit",
     minute: "2-digit",
   });
-  const endTime = end.toLocaleTimeString("fr-FR", {
+  const toTime = to.toLocaleTimeString("fr-FR", {
     hour: "2-digit",
     minute: "2-digit",
   });
-  if (startTime === endTime) return dayText + " " + startTime;
-  return dayText + " " + startTime + " → " + endTime;
+  if (fromTime === toTime) return dayText + " " + fromTime;
+  return dayText + " " + fromTime + " → " + toTime;
 }
 
 function wikipediaFrUrl(scientificName) {
