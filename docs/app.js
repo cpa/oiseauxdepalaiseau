@@ -14,25 +14,18 @@
       throw new Error("Le JSON doit etre un tableau.");
     }
 
-    data.sort((a, b) => {
-      const ta = Date.parse(a.datetime || "");
-      const tb = Date.parse(b.datetime || "");
-      return tb - ta;
-    });
-
-    const folded = foldConsecutiveBySpecies(data);
     const fragment = document.createDocumentFragment();
-    for (const row of folded) {
-      const tr = document.createElement("tr");
-      tr.className = "bird-row";
+    for (const row of data) {
+      const card = document.createElement("article");
+      card.className = "bird-row";
 
-      const tdDate = document.createElement("td");
-      tdDate.className = "bird-date";
-      tdDate.textContent = formatDate(row.datetime);
-      tr.appendChild(tdDate);
+      const date = document.createElement("div");
+      date.className = "bird-date";
+      date.textContent = formatDate(row.datetime);
+      card.appendChild(date);
 
-      const tdCommon = document.createElement("td");
-      tdCommon.className = "bird-main";
+      const main = document.createElement("div");
+      main.className = "bird-main";
       const displayName = row.com_name || row.sci_name || "";
       const wikiUrl = wikipediaFrUrl(row.sci_name || "");
       if (wikiUrl) {
@@ -42,28 +35,27 @@
         link.rel = "noopener noreferrer";
         link.className = "text-emerald-700 underline decoration-emerald-400 underline-offset-2 hover:text-emerald-900";
         link.textContent = displayName;
-        tdCommon.appendChild(link);
+        main.appendChild(link);
       } else {
-        tdCommon.textContent = displayName;
+        main.textContent = displayName;
       }
       if ((row.count || 1) > 1) {
         const count = document.createElement("span");
         count.className = "ml-2 inline-flex rounded-full bg-emerald-100 px-2 py-0.5 text-xs font-medium text-emerald-800";
         count.textContent = "x" + row.count;
-        tdCommon.appendChild(count);
+        main.appendChild(count);
       }
       const sci = document.createElement("div");
       sci.className = "bird-sci";
       sci.textContent = row.sci_name || "";
-      tdCommon.appendChild(sci);
-      tr.appendChild(tdCommon);
+      main.appendChild(sci);
+      card.appendChild(main);
 
-      fragment.appendChild(tr);
+      fragment.appendChild(card);
     }
 
     tbody.replaceChildren(fragment);
-    status.textContent =
-      "Dernière détections d'oiseaux à Palaiseau - " + folded.length + " groupes charges.";
+    status.textContent = "Les oiseaux de Palaiseau - " + data.length + " détections.";
   } catch (err) {
     status.textContent = "Erreur: " + (err && err.message ? err.message : String(err));
   }
@@ -72,33 +64,17 @@
 function formatDate(value) {
   const ms = Date.parse(value || "");
   if (Number.isNaN(ms)) return value || "";
-  return new Date(ms).toLocaleString();
+  return new Date(ms).toLocaleString("fr-FR", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
 }
 
 function wikipediaFrUrl(scientificName) {
   const name = scientificName.trim();
   if (!name) return "";
   return "https://fr.wikipedia.org/wiki/" + encodeURIComponent(name.replace(/\s+/g, "_"));
-}
-
-function foldConsecutiveBySpecies(rows) {
-  const grouped = [];
-  for (const row of rows) {
-    const sci = (row && row.sci_name ? row.sci_name : "").trim();
-    if (!sci) continue;
-
-    const last = grouped[grouped.length - 1];
-    if (last && last.sci_name === sci) {
-      last.count += 1;
-      continue;
-    }
-
-    grouped.push({
-      datetime: row.datetime || "",
-      sci_name: sci,
-      com_name: (row.com_name || "").trim(),
-      count: 1,
-    });
-  }
-  return grouped;
 }
