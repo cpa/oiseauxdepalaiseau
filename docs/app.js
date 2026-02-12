@@ -85,7 +85,7 @@ function formatDetectionWindow(startValue, endValue) {
     start.getMonth() === end.getMonth() &&
     start.getDate() === end.getDate();
 
-  if (!sameDay) return startText + " -> " + endText;
+  if (!sameDay) return startText + " → " + endText;
 
   const dayText = start.toLocaleDateString("fr-FR", {
     year: "numeric",
@@ -101,7 +101,7 @@ function formatDetectionWindow(startValue, endValue) {
     minute: "2-digit",
   });
   if (startTime === endTime) return dayText + " " + startTime;
-  return dayText + " " + startTime + " -> " + endTime;
+  return dayText + " " + startTime + " → " + endTime;
 }
 
 function wikipediaFrUrl(scientificName) {
