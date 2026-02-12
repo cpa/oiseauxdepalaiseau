@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import csv
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 
 
 def load_french_labels(path: str) -> dict[str, str]:
@@ -23,6 +23,7 @@ def load_french_labels(path: str) -> dict[str, str]:
 
 def convert_birddb_to_records(birddb_path: str, labels: dict[str, str]) -> list[dict]:
     records: list[dict] = []
+    cutoff = datetime.now() - timedelta(days=30)
 
     with open(birddb_path, "r", encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f, delimiter=";")
@@ -37,6 +38,8 @@ def convert_birddb_to_records(birddb_path: str, labels: dict[str, str]) -> list[
             try:
                 dt = datetime.strptime(f"{date_str} {time_str}", "%Y-%m-%d %H:%M:%S")
             except ValueError:
+                continue
+            if dt < cutoff:
                 continue
 
             french_name = labels.get(sci_name, "")
