@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-14T16:49:54",
+    "datetime_start": "2026-02-14T16:50:21",
     "datetime_end": "2026-02-14T16:48:06",
     "sci_name": "Dendrocopos major",
     "com_name": "Pic épeiche"
@@ -50296,17 +50296,5 @@
     "datetime_end": "2026-01-15T16:51:37",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-15T16:50:31",
-    "datetime_end": "2026-01-15T16:50:31",
-    "sci_name": "Picus viridis",
-    "com_name": "Pic vert"
-  },
-  {
-    "datetime_start": "2026-01-15T16:50:22",
-    "datetime_end": "2026-01-15T16:50:07",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
