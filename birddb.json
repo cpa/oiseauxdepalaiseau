@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-14T17:37:43",
+    "datetime_start": "2026-02-14T17:38:46",
     "datetime_end": "2026-02-14T17:36:43",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
@@ -50332,11 +50332,5 @@
     "datetime_end": "2026-01-15T19:02:47",
     "sci_name": "Turdus iliacus",
     "com_name": "Grive mauvis"
-  },
-  {
-    "datetime_start": "2026-01-15T17:38:44",
-    "datetime_end": "2026-01-15T17:38:44",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
   }
 ]
