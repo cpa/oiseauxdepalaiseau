@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-14T13:23:53",
+    "datetime_start": "2026-02-14T13:24:50",
     "datetime_end": "2026-02-14T13:23:26",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -50089,14 +50089,8 @@
   },
   {
     "datetime_start": "2026-01-15T13:25:21",
-    "datetime_end": "2026-01-15T13:24:24",
+    "datetime_end": "2026-01-15T13:25:18",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-15T13:24:06",
-    "datetime_end": "2026-01-15T13:24:06",
-    "sci_name": "Phasianus colchicus",
-    "com_name": "Faisan de Colchide"
   }
 ]
