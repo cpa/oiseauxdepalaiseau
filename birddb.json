@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-14T14:12:53",
+    "datetime_start": "2026-02-14T14:13:38",
     "datetime_end": "2026-02-14T14:11:53",
     "sci_name": "Certhia brachydactyla",
     "com_name": "Grimpereau des jardins"
@@ -50158,11 +50158,5 @@
     "datetime_end": "2026-01-15T14:14:18",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-15T14:13:51",
-    "datetime_end": "2026-01-15T14:13:51",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
