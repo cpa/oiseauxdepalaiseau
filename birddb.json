@@ -50098,23 +50098,5 @@
     "datetime_end": "2026-01-15T14:35:15",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-15T14:33:30",
-    "datetime_end": "2026-01-15T14:33:30",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-15T14:33:21",
-    "datetime_end": "2026-01-15T14:33:21",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-15T14:33:12",
-    "datetime_end": "2026-01-15T14:33:12",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
