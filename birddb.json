@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-14T15:28:48",
+    "datetime_start": "2026-02-14T15:28:57",
     "datetime_end": "2026-02-14T15:25:15",
     "sci_name": "Aegithalos caudatus",
     "com_name": "Orite à longue queue"
@@ -50158,11 +50158,5 @@
     "datetime_end": "2026-01-15T15:32:52",
     "sci_name": "Numenius arquata",
     "com_name": "Courlis cendré"
-  },
-  {
-    "datetime_start": "2026-01-15T15:29:34",
-    "datetime_end": "2026-01-15T15:29:34",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
