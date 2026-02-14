@@ -50332,17 +50332,5 @@
     "datetime_end": "2026-01-15T10:35:25",
     "sci_name": "Fringilla coelebs",
     "com_name": "Pinson des arbres"
-  },
-  {
-    "datetime_start": "2026-01-15T10:34:22",
-    "datetime_end": "2026-01-15T10:34:16",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-15T10:34:04",
-    "datetime_end": "2026-01-15T10:34:04",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
