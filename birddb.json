@@ -1,6 +1,12 @@
 [
   {
-    "datetime_start": "2026-02-14T12:24:40",
+    "datetime_start": "2026-02-14T12:25:22",
+    "datetime_end": "2026-02-14T12:25:22",
+    "sci_name": "Carduelis carduelis",
+    "com_name": "Chardonneret élégant"
+  },
+  {
+    "datetime_start": "2026-02-14T12:25:07",
     "datetime_end": "2026-02-14T12:22:25",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
@@ -50155,7 +50161,7 @@
   },
   {
     "datetime_start": "2026-01-15T12:29:59",
-    "datetime_end": "2026-01-15T12:25:50",
+    "datetime_end": "2026-01-15T12:26:38",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
   }
