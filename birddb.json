@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-14T17:03:58",
+    "datetime_start": "2026-02-14T17:05:55",
     "datetime_end": "2026-02-14T17:01:52",
     "sci_name": "Dendrocopos major",
     "com_name": "Pic épeiche"
@@ -50296,11 +50296,5 @@
     "datetime_end": "2026-01-15T17:11:59",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-15T17:05:46",
-    "datetime_end": "2026-01-15T17:05:46",
-    "sci_name": "Turdus iliacus",
-    "com_name": "Grive mauvis"
   }
 ]
