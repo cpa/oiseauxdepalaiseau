@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-14T14:21:53",
+    "datetime_start": "2026-02-14T14:22:08",
     "datetime_end": "2026-02-14T14:20:44",
     "sci_name": "Fringilla coelebs",
     "com_name": "Pinson des arbres"
@@ -50119,19 +50119,7 @@
   },
   {
     "datetime_start": "2026-01-15T14:24:15",
-    "datetime_end": "2026-01-15T14:23:00",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-15T14:22:42",
-    "datetime_end": "2026-01-15T14:22:42",
-    "sci_name": "Turdus iliacus",
-    "com_name": "Grive mauvis"
-  },
-  {
-    "datetime_start": "2026-01-15T14:22:24",
-    "datetime_end": "2026-01-15T14:22:24",
+    "datetime_end": "2026-01-15T14:23:06",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
   }
