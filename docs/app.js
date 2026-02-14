@@ -31,6 +31,7 @@
       media.className = "bird-media";
       const image = document.createElement("img");
       image.className = "bird-image";
+      image.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==";
       image.alt = row.com_name || row.sci_name || "Oiseau";
       image.loading = "lazy";
       image.decoding = "async";
@@ -72,8 +73,14 @@
       if (imagePromise) {
         imagePromise.then((url) => {
           if (url) {
+            image.onload = () => {
+              image.classList.add("is-ready");
+              media.classList.add("has-image");
+            };
+            image.onerror = () => {
+              image.classList.add("is-missing");
+            };
             image.src = url;
-            image.classList.add("is-ready");
           } else {
             image.classList.add("is-missing");
           }
