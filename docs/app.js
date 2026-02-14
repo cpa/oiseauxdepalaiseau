@@ -1,7 +1,7 @@
 (async function main() {
   const status = document.getElementById("status");
   const tbody = document.getElementById("rows");
-  const dataUrl = "https://cpa.github.io/oiseauxdepalaiseau/birddb.json";
+  const dataUrl = "https://raw.githubusercontent.com/cpa/oiseauxdepalaiseau/refs/heads/main/birddb.json";
 
   try {
     const res = await fetch(dataUrl, { cache: "no-store" });

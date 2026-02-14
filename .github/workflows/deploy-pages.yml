@@ -24,14 +24,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Copy birddb.json to site folder
-        run: |
-          if [ ! -f birddb.json ]; then
-            echo "Missing birddb.json in repository root"
-            exit 1
-          fi
-          cp birddb.json docs/birddb.json
-
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
