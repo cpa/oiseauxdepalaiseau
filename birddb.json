@@ -50170,17 +50170,5 @@
     "datetime_end": "2026-01-15T11:54:53",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-15T11:53:41",
-    "datetime_end": "2026-01-15T11:53:41",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-15T11:53:35",
-    "datetime_end": "2026-01-15T11:53:35",
-    "sci_name": "Poecile palustris",
-    "com_name": "Mésange nonnette"
   }
 ]
