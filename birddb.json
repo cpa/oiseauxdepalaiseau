@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-14T17:23:46",
+    "datetime_start": "2026-02-14T17:24:04",
     "datetime_end": "2026-02-14T17:23:46",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -50314,11 +50314,5 @@
     "datetime_end": "2026-01-15T17:25:29",
     "sci_name": "Turdus iliacus",
     "com_name": "Grive mauvis"
-  },
-  {
-    "datetime_start": "2026-01-15T17:24:35",
-    "datetime_end": "2026-01-15T17:24:26",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
