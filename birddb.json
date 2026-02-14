@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-14T10:31:54",
+    "datetime_start": "2026-02-14T10:34:57",
     "datetime_end": "2026-02-14T10:31:51",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -50326,11 +50326,5 @@
     "datetime_end": "2026-01-15T10:36:10",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-15T10:36:01",
-    "datetime_end": "2026-01-15T10:35:25",
-    "sci_name": "Fringilla coelebs",
-    "com_name": "Pinson des arbres"
   }
 ]
