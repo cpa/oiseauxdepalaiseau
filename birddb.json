@@ -50146,17 +50146,5 @@
     "datetime_end": "2026-01-15T14:16:24",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-15T14:15:54",
-    "datetime_end": "2026-01-15T14:15:54",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-15T14:15:48",
-    "datetime_end": "2026-01-15T14:15:48",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
