@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-14T15:38:39",
+    "datetime_start": "2026-02-14T15:39:00",
     "datetime_end": "2026-02-14T15:38:39",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
@@ -50170,11 +50170,5 @@
     "datetime_end": "2026-01-15T15:46:19",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-15T15:39:28",
-    "datetime_end": "2026-01-15T15:39:25",
-    "sci_name": "Numenius arquata",
-    "com_name": "Courlis cendré"
   }
 ]
