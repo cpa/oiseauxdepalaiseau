@@ -3,5 +3,6 @@ cp /home/birdlistener/BirdNET-Pi/BirdDB.txt /home/birdlistener/BirdNET-Pi/oiseau
 /home/birdlistener/BirdNET-Pi/oiseauxdepalaiseau/birddb_to_json.py > /home/birdlistener/BirdNET-Pi/oiseauxdepalaiseau/birddb.json
 git add .
 git commit -a -m "Updated data"
+git config pull.rebase true
 git pull origin main
 git push origin main
