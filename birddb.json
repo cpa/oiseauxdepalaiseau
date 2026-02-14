@@ -50263,20 +50263,8 @@
   },
   {
     "datetime_start": "2026-01-15T11:32:20",
-    "datetime_end": "2026-01-15T11:31:50",
+    "datetime_end": "2026-01-15T11:32:20",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-15T11:31:47",
-    "datetime_end": "2026-01-15T11:31:32",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-15T11:31:11",
-    "datetime_end": "2026-01-15T11:31:08",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
