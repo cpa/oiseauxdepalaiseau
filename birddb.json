@@ -50302,23 +50302,5 @@
     "datetime_end": "2026-01-15T10:39:19",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-15T10:38:49",
-    "datetime_end": "2026-01-15T10:38:40",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-15T10:38:10",
-    "datetime_end": "2026-01-15T10:38:10",
-    "sci_name": "Aegithalos caudatus",
-    "com_name": "Orite à longue queue"
-  },
-  {
-    "datetime_start": "2026-01-15T10:38:07",
-    "datetime_end": "2026-01-15T10:38:04",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
