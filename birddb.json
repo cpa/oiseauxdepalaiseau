@@ -49681,20 +49681,8 @@
   },
   {
     "datetime_start": "2026-01-16T14:22:06",
-    "datetime_end": "2026-01-16T14:21:21",
+    "datetime_end": "2026-01-16T14:22:03",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-16T14:21:18",
-    "datetime_end": "2026-01-16T14:21:18",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-16T14:21:09",
-    "datetime_end": "2026-01-16T14:21:09",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
