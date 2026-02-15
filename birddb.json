@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-02-15T10:13:42",
+    "datetime_end": "2026-02-15T10:13:15",
+    "sci_name": "Aegithalos caudatus",
+    "com_name": "Orite à longue queue"
+  },
+  {
     "datetime_start": "2026-02-15T10:12:27",
     "datetime_end": "2026-02-15T10:12:27",
     "sci_name": "Turdus philomelos",
@@ -50482,23 +50488,5 @@
     "datetime_end": "2026-01-16T10:14:13",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-16T10:13:43",
-    "datetime_end": "2026-01-16T10:13:43",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-16T10:13:28",
-    "datetime_end": "2026-01-16T10:13:25",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-16T10:13:16",
-    "datetime_end": "2026-01-16T10:13:16",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
