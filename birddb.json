@@ -50632,17 +50632,5 @@
     "datetime_end": "2026-01-16T09:09:00",
     "sci_name": "Poecile palustris",
     "com_name": "Mésange nonnette"
-  },
-  {
-    "datetime_start": "2026-01-16T09:07:45",
-    "datetime_end": "2026-01-16T09:07:45",
-    "sci_name": "Coccothraustes coccothraustes",
-    "com_name": "Gros-bec casse-noyaux"
-  },
-  {
-    "datetime_start": "2026-01-16T09:07:03",
-    "datetime_end": "2026-01-16T09:07:03",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
