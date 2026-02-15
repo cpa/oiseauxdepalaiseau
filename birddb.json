@@ -50305,20 +50305,8 @@
   },
   {
     "datetime_start": "2026-01-16T11:03:22",
-    "datetime_end": "2026-01-16T10:59:58",
+    "datetime_end": "2026-01-16T11:03:22",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-16T10:59:28",
-    "datetime_end": "2026-01-16T10:59:28",
-    "sci_name": "Fringilla coelebs",
-    "com_name": "Pinson des arbres"
-  },
-  {
-    "datetime_start": "2026-01-16T10:59:25",
-    "datetime_end": "2026-01-16T10:59:04",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
   }
 ]
