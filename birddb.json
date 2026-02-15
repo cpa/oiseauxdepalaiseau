@@ -50533,14 +50533,8 @@
   },
   {
     "datetime_start": "2026-01-16T09:56:04",
-    "datetime_end": "2026-01-16T09:56:01",
+    "datetime_end": "2026-01-16T09:56:04",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-16T09:55:31",
-    "datetime_end": "2026-01-16T09:55:31",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
