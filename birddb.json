@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-15T04:46:12",
+    "datetime_start": "2026-02-15T04:51:45",
     "datetime_end": "2026-02-15T04:44:54",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
@@ -50572,11 +50572,5 @@
     "datetime_end": "2026-01-16T04:56:40",
     "sci_name": "Spinus spinus",
     "com_name": "Tarin des aulnes"
-  },
-  {
-    "datetime_start": "2026-01-16T04:51:58",
-    "datetime_end": "2026-01-16T04:51:13",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
   }
 ]
