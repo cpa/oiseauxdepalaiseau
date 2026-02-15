@@ -50662,23 +50662,5 @@
     "datetime_end": "2026-01-16T09:03:15",
     "sci_name": "Certhia brachydactyla",
     "com_name": "Grimpereau des jardins"
-  },
-  {
-    "datetime_start": "2026-01-16T09:02:45",
-    "datetime_end": "2026-01-16T09:02:45",
-    "sci_name": "Poecile palustris",
-    "com_name": "Mésange nonnette"
-  },
-  {
-    "datetime_start": "2026-01-16T09:02:30",
-    "datetime_end": "2026-01-16T09:02:30",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-16T09:02:12",
-    "datetime_end": "2026-01-16T09:02:12",
-    "sci_name": "Poecile palustris",
-    "com_name": "Mésange nonnette"
   }
 ]
