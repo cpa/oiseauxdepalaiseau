@@ -49831,19 +49831,7 @@
   },
   {
     "datetime_start": "2026-01-16T13:42:42",
-    "datetime_end": "2026-01-16T13:40:59",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-01-16T13:40:59",
-    "datetime_end": "2026-01-16T13:40:59",
-    "sci_name": "Vanellus vanellus",
-    "com_name": "Vanneau huppé"
-  },
-  {
-    "datetime_start": "2026-01-16T13:40:53",
-    "datetime_end": "2026-01-16T13:40:47",
+    "datetime_end": "2026-01-16T13:41:02",
     "sci_name": "Sitta europaea",
     "com_name": "Sittelle torchepot"
   }
