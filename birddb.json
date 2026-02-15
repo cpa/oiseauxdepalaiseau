@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-15T05:07:45",
+    "datetime_start": "2026-02-15T05:08:43",
     "datetime_end": "2026-02-15T05:05:09",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
@@ -50602,11 +50602,5 @@
     "datetime_end": "2026-01-16T05:10:04",
     "sci_name": "Turdus merula",
     "com_name": "Merle noir"
-  },
-  {
-    "datetime_start": "2026-01-16T05:08:52",
-    "datetime_end": "2026-01-16T05:08:52",
-    "sci_name": "Anas crecca",
-    "com_name": "Sarcelle d'hiver"
   }
 ]
