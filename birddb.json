@@ -50494,17 +50494,5 @@
     "datetime_end": "2026-01-16T10:12:22",
     "sci_name": "Certhia brachydactyla",
     "com_name": "Grimpereau des jardins"
-  },
-  {
-    "datetime_start": "2026-01-16T10:11:31",
-    "datetime_end": "2026-01-16T10:11:16",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-16T10:11:10",
-    "datetime_end": "2026-01-16T10:11:10",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
