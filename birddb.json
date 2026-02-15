@@ -50281,19 +50281,7 @@
   },
   {
     "datetime_start": "2026-01-16T11:12:10",
-    "datetime_end": "2026-01-16T11:10:13",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-16T11:10:10",
-    "datetime_end": "2026-01-16T11:10:10",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-01-16T11:10:07",
-    "datetime_end": "2026-01-16T11:10:04",
+    "datetime_end": "2026-01-16T11:11:07",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
   }
