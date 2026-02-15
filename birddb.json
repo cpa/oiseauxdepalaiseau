@@ -50617,14 +50617,8 @@
   },
   {
     "datetime_start": "2026-01-16T09:15:57",
-    "datetime_end": "2026-01-16T09:14:51",
+    "datetime_end": "2026-01-16T09:15:06",
     "sci_name": "Poecile palustris",
     "com_name": "Mésange nonnette"
-  },
-  {
-    "datetime_start": "2026-01-16T09:14:21",
-    "datetime_end": "2026-01-16T09:14:21",
-    "sci_name": "Certhia brachydactyla",
-    "com_name": "Grimpereau des jardins"
   }
 ]
