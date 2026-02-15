@@ -50593,14 +50593,8 @@
   },
   {
     "datetime_start": "2026-01-16T05:47:44",
-    "datetime_end": "2026-01-16T05:44:26",
+    "datetime_end": "2026-01-16T05:45:41",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-01-16T05:44:11",
-    "datetime_end": "2026-01-16T05:44:11",
-    "sci_name": "Chloris chloris",
-    "com_name": "Verdier d'Europe"
   }
 ]
