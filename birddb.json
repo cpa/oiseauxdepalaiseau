@@ -50293,14 +50293,8 @@
   },
   {
     "datetime_start": "2026-01-16T11:10:07",
-    "datetime_end": "2026-01-16T11:08:28",
+    "datetime_end": "2026-01-16T11:09:40",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-16T11:08:04",
-    "datetime_end": "2026-01-16T11:08:04",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
