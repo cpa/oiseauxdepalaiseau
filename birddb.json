@@ -50119,26 +50119,8 @@
   },
   {
     "datetime_start": "2026-01-16T12:15:44",
-    "datetime_end": "2026-01-16T12:15:02",
+    "datetime_end": "2026-01-16T12:15:44",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-16T12:14:59",
-    "datetime_end": "2026-01-16T12:14:59",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-01-16T12:14:53",
-    "datetime_end": "2026-01-16T12:14:53",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-16T12:14:32",
-    "datetime_end": "2026-01-16T12:14:17",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
   }
 ]
