@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-15T12:30:13",
+    "datetime_start": "2026-02-15T12:31:40",
     "datetime_end": "2026-02-15T12:30:13",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -50083,14 +50083,8 @@
   },
   {
     "datetime_start": "2026-01-16T12:32:38",
-    "datetime_end": "2026-01-16T12:31:20",
+    "datetime_end": "2026-01-16T12:32:08",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-16T12:31:17",
-    "datetime_end": "2026-01-16T12:31:17",
-    "sci_name": "Aegithalos caudatus",
-    "com_name": "Orite à longue queue"
   }
 ]
