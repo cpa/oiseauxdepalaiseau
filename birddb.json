@@ -50071,14 +50071,8 @@
   },
   {
     "datetime_start": "2026-01-16T12:35:11",
-    "datetime_end": "2026-01-16T12:34:59",
+    "datetime_end": "2026-01-16T12:35:11",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-16T12:34:53",
-    "datetime_end": "2026-01-16T12:34:05",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
