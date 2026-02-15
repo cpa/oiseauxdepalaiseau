@@ -50398,23 +50398,5 @@
     "datetime_end": "2026-01-16T10:45:13",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-16T10:44:55",
-    "datetime_end": "2026-01-16T10:44:49",
-    "sci_name": "Poecile palustris",
-    "com_name": "Mésange nonnette"
-  },
-  {
-    "datetime_start": "2026-01-16T10:44:34",
-    "datetime_end": "2026-01-16T10:44:19",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-16T10:44:16",
-    "datetime_end": "2026-01-16T10:44:10",
-    "sci_name": "Poecile palustris",
-    "com_name": "Mésange nonnette"
   }
 ]
