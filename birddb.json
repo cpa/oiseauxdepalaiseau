@@ -50200,23 +50200,5 @@
     "datetime_end": "2026-01-16T11:33:35",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-16T11:28:22",
-    "datetime_end": "2026-01-16T11:28:19",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-16T11:28:07",
-    "datetime_end": "2026-01-16T11:28:07",
-    "sci_name": "Turdus iliacus",
-    "com_name": "Grive mauvis"
-  },
-  {
-    "datetime_start": "2026-01-16T11:28:04",
-    "datetime_end": "2026-01-16T11:28:04",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
