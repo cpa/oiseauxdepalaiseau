@@ -50653,31 +50653,7 @@
   },
   {
     "datetime_start": "2026-01-16T08:38:24",
-    "datetime_end": "2026-01-16T08:37:33",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-16T08:37:27",
-    "datetime_end": "2026-01-16T08:37:27",
-    "sci_name": "Turdus iliacus",
-    "com_name": "Grive mauvis"
-  },
-  {
-    "datetime_start": "2026-01-16T08:37:24",
-    "datetime_end": "2026-01-16T08:37:24",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-16T08:37:21",
-    "datetime_end": "2026-01-16T08:37:21",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-16T08:37:18",
-    "datetime_end": "2026-01-16T08:37:12",
+    "datetime_end": "2026-01-16T08:38:03",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
   }
