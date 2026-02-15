@@ -50317,20 +50317,8 @@
   },
   {
     "datetime_start": "2026-01-16T10:59:25",
-    "datetime_end": "2026-01-16T10:57:37",
+    "datetime_end": "2026-01-16T10:58:28",
     "sci_name": "Sitta europaea",
     "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-01-16T10:57:28",
-    "datetime_end": "2026-01-16T10:57:28",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-16T10:57:22",
-    "datetime_end": "2026-01-16T10:57:22",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
