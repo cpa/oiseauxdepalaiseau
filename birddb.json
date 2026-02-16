@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-02-16T09:09:59",
+    "datetime_end": "2026-02-16T09:09:59",
+    "sci_name": "Regulus ignicapilla",
+    "com_name": "Roitelet triple-bandeau"
+  },
+  {
     "datetime_start": "2026-02-16T09:08:47",
     "datetime_end": "2026-02-16T09:08:47",
     "sci_name": "Garrulus glandarius",
@@ -49675,38 +49681,8 @@
   },
   {
     "datetime_start": "2026-01-17T09:11:15",
-    "datetime_end": "2026-01-17T09:10:42",
+    "datetime_end": "2026-01-17T09:11:06",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T09:10:36",
-    "datetime_end": "2026-01-17T09:10:36",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-17T09:10:36",
-    "datetime_end": "2026-01-17T09:10:33",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T09:10:27",
-    "datetime_end": "2026-01-17T09:10:27",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-17T09:10:18",
-    "datetime_end": "2026-01-17T09:10:09",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T09:10:06",
-    "datetime_end": "2026-01-17T09:10:06",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
