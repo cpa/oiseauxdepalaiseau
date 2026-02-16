@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-16T10:38:42",
+    "datetime_start": "2026-02-16T10:39:21",
     "datetime_end": "2026-02-16T10:38:42",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -49582,11 +49582,5 @@
     "datetime_end": "2026-01-17T10:41:28",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-01-17T10:39:16",
-    "datetime_end": "2026-01-17T10:39:16",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
