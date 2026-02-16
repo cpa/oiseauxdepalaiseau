@@ -49522,17 +49522,5 @@
     "datetime_end": "2026-01-17T11:15:31",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-17T11:15:01",
-    "datetime_end": "2026-01-17T11:15:01",
-    "sci_name": "Turdus philomelos",
-    "com_name": "Grive musicienne"
-  },
-  {
-    "datetime_start": "2026-01-17T11:14:58",
-    "datetime_end": "2026-01-17T11:14:58",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
