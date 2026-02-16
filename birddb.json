@@ -49162,23 +49162,5 @@
     "datetime_end": "2026-01-17T13:14:11",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T13:13:44",
-    "datetime_end": "2026-01-17T13:13:44",
-    "sci_name": "Coccothraustes coccothraustes",
-    "com_name": "Gros-bec casse-noyaux"
-  },
-  {
-    "datetime_start": "2026-01-17T13:13:29",
-    "datetime_end": "2026-01-17T13:13:29",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T13:13:02",
-    "datetime_end": "2026-01-17T13:13:02",
-    "sci_name": "Coccothraustes coccothraustes",
-    "com_name": "Gros-bec casse-noyaux"
   }
 ]
