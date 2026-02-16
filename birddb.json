@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-16T14:35:32",
+    "datetime_start": "2026-02-16T14:36:32",
     "datetime_end": "2026-02-16T14:35:23",
     "sci_name": "Poecile palustris",
     "com_name": "Mésange nonnette"
@@ -49048,11 +49048,5 @@
     "datetime_end": "2026-01-17T14:38:57",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-01-17T14:36:30",
-    "datetime_end": "2026-01-17T14:36:18",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
