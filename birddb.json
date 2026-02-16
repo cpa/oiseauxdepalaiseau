@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-02-16T08:43:41",
+    "datetime_end": "2026-02-16T08:43:11",
+    "sci_name": "Certhia brachydactyla",
+    "com_name": "Grimpereau des jardins"
+  },
+  {
     "datetime_start": "2026-02-16T08:42:26",
     "datetime_end": "2026-02-16T08:41:11",
     "sci_name": "Erithacus rubecula",
@@ -49702,11 +49708,5 @@
     "datetime_end": "2026-01-17T08:44:18",
     "sci_name": "Certhia brachydactyla",
     "com_name": "Grimpereau des jardins"
-  },
-  {
-    "datetime_start": "2026-01-17T08:43:18",
-    "datetime_end": "2026-01-17T08:43:18",
-    "sci_name": "Garrulus glandarius",
-    "com_name": "Geai des chênes"
   }
 ]
