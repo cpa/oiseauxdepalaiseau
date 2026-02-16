@@ -1,5 +1,17 @@
 [
   {
+    "datetime_start": "2026-02-16T09:11:35",
+    "datetime_end": "2026-02-16T09:11:26",
+    "sci_name": "Pica pica",
+    "com_name": "Pie bavarde"
+  },
+  {
+    "datetime_start": "2026-02-16T09:10:56",
+    "datetime_end": "2026-02-16T09:10:56",
+    "sci_name": "Erithacus rubecula",
+    "com_name": "Rougegorge familier"
+  },
+  {
     "datetime_start": "2026-02-16T09:09:59",
     "datetime_end": "2026-02-16T09:09:59",
     "sci_name": "Regulus ignicapilla",
@@ -49654,35 +49666,5 @@
     "datetime_end": "2026-01-17T09:12:15",
     "sci_name": "Certhia brachydactyla",
     "com_name": "Grimpereau des jardins"
-  },
-  {
-    "datetime_start": "2026-01-17T09:11:36",
-    "datetime_end": "2026-01-17T09:11:33",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T09:11:24",
-    "datetime_end": "2026-01-17T09:11:24",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-17T09:11:24",
-    "datetime_end": "2026-01-17T09:11:24",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T09:11:21",
-    "datetime_end": "2026-01-17T09:11:21",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T09:11:15",
-    "datetime_end": "2026-01-17T09:11:06",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
