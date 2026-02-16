@@ -49711,14 +49711,8 @@
   },
   {
     "datetime_start": "2026-01-17T08:52:24",
-    "datetime_end": "2026-01-17T08:52:00",
+    "datetime_end": "2026-01-17T08:52:06",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T08:51:36",
-    "datetime_end": "2026-01-17T08:51:36",
-    "sci_name": "Turdus iliacus",
-    "com_name": "Grive mauvis"
   }
 ]
