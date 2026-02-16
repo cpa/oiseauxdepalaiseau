@@ -49609,19 +49609,7 @@
   },
   {
     "datetime_start": "2026-01-17T10:56:10",
-    "datetime_end": "2026-01-17T10:55:46",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-17T10:55:37",
-    "datetime_end": "2026-01-17T10:55:37",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T10:55:28",
-    "datetime_end": "2026-01-17T10:55:19",
+    "datetime_end": "2026-01-17T10:56:04",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
   }
