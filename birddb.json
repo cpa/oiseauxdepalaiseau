@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-16T10:02:33",
+    "datetime_start": "2026-02-16T10:02:48",
     "datetime_end": "2026-02-16T09:57:18",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -49618,17 +49618,5 @@
     "datetime_end": "2026-01-17T10:04:09",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T10:03:27",
-    "datetime_end": "2026-01-17T10:03:18",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-01-17T10:03:06",
-    "datetime_end": "2026-01-17T10:03:06",
-    "sci_name": "Sturnus vulgaris",
-    "com_name": "Étourneau sansonnet"
   }
 ]
