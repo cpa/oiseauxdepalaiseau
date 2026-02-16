@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-16T11:38:43",
+    "datetime_start": "2026-02-16T11:38:52",
     "datetime_end": "2026-02-16T11:38:43",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
@@ -49360,23 +49360,5 @@
     "datetime_end": "2026-01-17T11:40:25",
     "sci_name": "Sitta europaea",
     "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-01-17T11:39:40",
-    "datetime_end": "2026-01-17T11:39:40",
-    "sci_name": "Coccothraustes coccothraustes",
-    "com_name": "Gros-bec casse-noyaux"
-  },
-  {
-    "datetime_start": "2026-01-17T11:39:37",
-    "datetime_end": "2026-01-17T11:39:31",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-01-17T11:39:25",
-    "datetime_end": "2026-01-17T11:39:19",
-    "sci_name": "Coccothraustes coccothraustes",
-    "com_name": "Gros-bec casse-noyaux"
   }
 ]
