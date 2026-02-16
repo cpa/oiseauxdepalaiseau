@@ -1,6 +1,12 @@
 [
   {
-    "datetime_start": "2026-02-16T14:29:32",
+    "datetime_start": "2026-02-16T14:30:23",
+    "datetime_end": "2026-02-16T14:30:20",
+    "sci_name": "Pica pica",
+    "com_name": "Pie bavarde"
+  },
+  {
+    "datetime_start": "2026-02-16T14:29:56",
     "datetime_end": "2026-02-16T14:29:32",
     "sci_name": "Sitta europaea",
     "com_name": "Sittelle torchepot"
@@ -49045,19 +49051,7 @@
   },
   {
     "datetime_start": "2026-01-17T14:31:45",
-    "datetime_end": "2026-01-17T14:31:02",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T14:30:42",
-    "datetime_end": "2026-01-17T14:30:42",
-    "sci_name": "Passer domesticus",
-    "com_name": "Moineau domestique"
-  },
-  {
-    "datetime_start": "2026-01-17T14:30:20",
-    "datetime_end": "2026-01-17T14:30:09",
+    "datetime_end": "2026-01-17T14:31:45",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
   }
