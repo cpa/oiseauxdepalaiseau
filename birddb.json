@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-02-16T11:35:04",
+    "datetime_end": "2026-02-16T11:35:04",
+    "sci_name": "Sitta europaea",
+    "com_name": "Sittelle torchepot"
+  },
+  {
     "datetime_start": "2026-02-16T11:30:49",
     "datetime_end": "2026-02-16T11:30:49",
     "sci_name": "Psittacula krameri",
@@ -49417,26 +49423,8 @@
   },
   {
     "datetime_start": "2026-01-17T11:36:10",
-    "datetime_end": "2026-01-17T11:36:01",
+    "datetime_end": "2026-01-17T11:36:04",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T11:35:55",
-    "datetime_end": "2026-01-17T11:35:52",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T11:35:43",
-    "datetime_end": "2026-01-17T11:35:43",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T11:35:28",
-    "datetime_end": "2026-01-17T11:35:13",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
