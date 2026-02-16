@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-02-16T11:57:31",
+    "datetime_end": "2026-02-16T11:57:22",
+    "sci_name": "Pica pica",
+    "com_name": "Pie bavarde"
+  },
+  {
     "datetime_start": "2026-02-16T11:54:10",
     "datetime_end": "2026-02-16T11:54:10",
     "sci_name": "Picus viridis",
@@ -49328,18 +49334,6 @@
   {
     "datetime_start": "2026-01-17T12:01:04",
     "datetime_end": "2026-01-17T11:59:19",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T11:57:55",
-    "datetime_end": "2026-01-17T11:57:55",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T11:57:34",
-    "datetime_end": "2026-01-17T11:57:31",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
   }
