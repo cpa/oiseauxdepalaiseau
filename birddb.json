@@ -49468,17 +49468,5 @@
     "datetime_end": "2026-01-17T11:33:10",
     "sci_name": "Garrulus glandarius",
     "com_name": "Geai des chênes"
-  },
-  {
-    "datetime_start": "2026-01-17T11:33:01",
-    "datetime_end": "2026-01-17T11:33:01",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T11:32:40",
-    "datetime_end": "2026-01-17T11:32:37",
-    "sci_name": "Garrulus glandarius",
-    "com_name": "Geai des chênes"
   }
 ]
