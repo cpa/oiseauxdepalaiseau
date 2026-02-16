@@ -49360,17 +49360,5 @@
     "datetime_end": "2026-01-17T11:49:43",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T11:48:01",
-    "datetime_end": "2026-01-17T11:48:01",
-    "sci_name": "Garrulus glandarius",
-    "com_name": "Geai des chênes"
-  },
-  {
-    "datetime_start": "2026-01-17T11:47:49",
-    "datetime_end": "2026-01-17T11:47:07",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
