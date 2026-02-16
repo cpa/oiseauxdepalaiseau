@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-16T09:40:48",
+    "datetime_start": "2026-02-16T09:44:48",
     "datetime_end": "2026-02-16T09:40:03",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -49567,26 +49567,8 @@
   },
   {
     "datetime_start": "2026-01-17T09:46:30",
-    "datetime_end": "2026-01-17T09:45:51",
+    "datetime_end": "2026-01-17T09:46:12",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T09:45:48",
-    "datetime_end": "2026-01-17T09:45:48",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-17T09:45:36",
-    "datetime_end": "2026-01-17T09:45:36",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T09:45:33",
-    "datetime_end": "2026-01-17T09:45:03",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
   }
 ]
