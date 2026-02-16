@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-02-16T12:53:34",
+    "datetime_end": "2026-02-16T12:53:34",
+    "sci_name": "Erithacus rubecula",
+    "com_name": "Rougegorge familier"
+  },
+  {
     "datetime_start": "2026-02-16T12:50:28",
     "datetime_end": "2026-02-16T12:50:28",
     "sci_name": "Turdus iliacus",
@@ -49207,26 +49213,8 @@
   },
   {
     "datetime_start": "2026-01-17T12:54:05",
-    "datetime_end": "2026-01-17T12:53:59",
+    "datetime_end": "2026-01-17T12:54:05",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T12:53:50",
-    "datetime_end": "2026-01-17T12:53:26",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T12:53:23",
-    "datetime_end": "2026-01-17T12:53:23",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T12:53:20",
-    "datetime_end": "2026-01-17T12:53:02",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
