@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-16T09:23:15",
+    "datetime_start": "2026-02-16T09:24:45",
     "datetime_end": "2026-02-16T09:19:38",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -49600,17 +49600,5 @@
     "datetime_end": "2026-01-17T09:27:18",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-01-17T09:24:30",
-    "datetime_end": "2026-01-17T09:24:30",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-17T09:24:12",
-    "datetime_end": "2026-01-17T09:24:12",
-    "sci_name": "Aegithalos caudatus",
-    "com_name": "Orite à longue queue"
   }
 ]
