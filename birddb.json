@@ -49582,35 +49582,5 @@
     "datetime_end": "2026-01-17T10:57:13",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T10:56:43",
-    "datetime_end": "2026-01-17T10:56:43",
-    "sci_name": "Turdus iliacus",
-    "com_name": "Grive mauvis"
-  },
-  {
-    "datetime_start": "2026-01-17T10:56:40",
-    "datetime_end": "2026-01-17T10:56:40",
-    "sci_name": "Motacilla cinerea",
-    "com_name": "Bergeronnette des ruisseaux"
-  },
-  {
-    "datetime_start": "2026-01-17T10:56:31",
-    "datetime_end": "2026-01-17T10:56:31",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-17T10:56:22",
-    "datetime_end": "2026-01-17T10:56:16",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T10:56:10",
-    "datetime_end": "2026-01-17T10:56:04",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
