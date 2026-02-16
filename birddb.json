@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-02-16T08:45:14",
+    "datetime_end": "2026-02-16T08:45:05",
+    "sci_name": "Certhia brachydactyla",
+    "com_name": "Grimpereau des jardins"
+  },
+  {
     "datetime_start": "2026-02-16T08:44:44",
     "datetime_end": "2026-02-16T08:44:44",
     "sci_name": "Turdus iliacus",
@@ -49694,18 +49700,6 @@
   {
     "datetime_start": "2026-01-17T08:49:03",
     "datetime_end": "2026-01-17T08:46:03",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T08:46:00",
-    "datetime_end": "2026-01-17T08:45:54",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T08:45:48",
-    "datetime_end": "2026-01-17T08:45:03",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
   }
