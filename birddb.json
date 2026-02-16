@@ -1,6 +1,12 @@
 [
   {
-    "datetime_start": "2026-02-16T09:11:35",
+    "datetime_start": "2026-02-16T09:12:20",
+    "datetime_end": "2026-02-16T09:12:15",
+    "sci_name": "Psittacula krameri",
+    "com_name": "Perruche à collier"
+  },
+  {
+    "datetime_start": "2026-02-16T09:11:56",
     "datetime_end": "2026-02-16T09:11:26",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -49648,23 +49654,5 @@
     "datetime_end": "2026-01-17T09:13:18",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T09:12:42",
-    "datetime_end": "2026-01-17T09:12:42",
-    "sci_name": "Certhia brachydactyla",
-    "com_name": "Grimpereau des jardins"
-  },
-  {
-    "datetime_start": "2026-01-17T09:12:39",
-    "datetime_end": "2026-01-17T09:12:27",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T09:12:15",
-    "datetime_end": "2026-01-17T09:12:15",
-    "sci_name": "Certhia brachydactyla",
-    "com_name": "Grimpereau des jardins"
   }
 ]
