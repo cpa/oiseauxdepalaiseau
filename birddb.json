@@ -1,5 +1,17 @@
 [
   {
+    "datetime_start": "2026-02-16T08:26:17",
+    "datetime_end": "2026-02-16T08:26:14",
+    "sci_name": "Cyanistes caeruleus",
+    "com_name": "Mésange bleue"
+  },
+  {
+    "datetime_start": "2026-02-16T08:25:47",
+    "datetime_end": "2026-02-16T08:25:47",
+    "sci_name": "Parus major",
+    "com_name": "Mésange charbonnière"
+  },
+  {
     "datetime_start": "2026-02-16T08:25:32",
     "datetime_end": "2026-02-16T08:25:11",
     "sci_name": "Cyanistes caeruleus",
@@ -49682,18 +49694,6 @@
   {
     "datetime_start": "2026-01-17T08:31:36",
     "datetime_end": "2026-01-17T08:31:36",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T08:26:51",
-    "datetime_end": "2026-01-17T08:26:36",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-01-17T08:26:18",
-    "datetime_end": "2026-01-17T08:26:18",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
   }
