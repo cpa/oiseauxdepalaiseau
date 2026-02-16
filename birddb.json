@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-16T10:57:39",
+    "datetime_start": "2026-02-16T10:58:39",
     "datetime_end": "2026-02-16T10:57:21",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
@@ -49564,23 +49564,5 @@
     "datetime_end": "2026-01-17T10:59:28",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-17T10:58:43",
-    "datetime_end": "2026-01-17T10:58:43",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T10:58:31",
-    "datetime_end": "2026-01-17T10:58:31",
-    "sci_name": "Sturnus vulgaris",
-    "com_name": "Étourneau sansonnet"
-  },
-  {
-    "datetime_start": "2026-01-17T10:58:19",
-    "datetime_end": "2026-01-17T10:58:19",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
