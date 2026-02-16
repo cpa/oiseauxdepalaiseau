@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-16T08:52:59",
+    "datetime_start": "2026-02-16T08:54:44",
     "datetime_end": "2026-02-16T08:52:59",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
@@ -49696,17 +49696,5 @@
     "datetime_end": "2026-01-17T08:57:09",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-17T08:54:36",
-    "datetime_end": "2026-01-17T08:54:36",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-01-17T08:54:21",
-    "datetime_end": "2026-01-17T08:54:21",
-    "sci_name": "Certhia brachydactyla",
-    "com_name": "Grimpereau des jardins"
   }
 ]
