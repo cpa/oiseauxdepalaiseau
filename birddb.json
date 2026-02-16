@@ -49321,32 +49321,8 @@
   },
   {
     "datetime_start": "2026-01-17T12:24:04",
-    "datetime_end": "2026-01-17T12:24:01",
+    "datetime_end": "2026-01-17T12:24:04",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T12:23:58",
-    "datetime_end": "2026-01-17T12:23:58",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T12:23:46",
-    "datetime_end": "2026-01-17T12:23:46",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T12:23:25",
-    "datetime_end": "2026-01-17T12:23:25",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T12:23:22",
-    "datetime_end": "2026-01-17T12:23:22",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
