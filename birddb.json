@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-02-16T10:12:15",
+    "datetime_end": "2026-02-16T10:12:15",
+    "sci_name": "Parus major",
+    "com_name": "Mésange charbonnière"
+  },
+  {
     "datetime_start": "2026-02-16T10:10:54",
     "datetime_end": "2026-02-16T10:08:06",
     "sci_name": "Erithacus rubecula",
@@ -49580,18 +49586,6 @@
   {
     "datetime_start": "2026-01-17T10:13:18",
     "datetime_end": "2026-01-17T10:13:18",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-01-17T10:12:42",
-    "datetime_end": "2026-01-17T10:12:42",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-17T10:12:36",
-    "datetime_end": "2026-01-17T10:12:36",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
   }
