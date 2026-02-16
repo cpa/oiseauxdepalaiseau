@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-16T12:22:16",
+    "datetime_start": "2026-02-16T12:24:46",
     "datetime_end": "2026-02-16T12:22:16",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
@@ -49318,11 +49318,5 @@
     "datetime_end": "2026-01-17T12:26:08",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T12:24:04",
-    "datetime_end": "2026-01-17T12:24:04",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
