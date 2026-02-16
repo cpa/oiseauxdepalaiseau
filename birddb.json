@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-02-16T09:13:23",
+    "datetime_end": "2026-02-16T09:13:14",
+    "sci_name": "Regulus ignicapilla",
+    "com_name": "Roitelet triple-bandeau"
+  },
+  {
     "datetime_start": "2026-02-16T09:12:20",
     "datetime_end": "2026-02-16T09:12:15",
     "sci_name": "Psittacula krameri",
@@ -49630,29 +49636,5 @@
     "datetime_end": "2026-01-17T09:14:12",
     "sci_name": "Certhia brachydactyla",
     "com_name": "Grimpereau des jardins"
-  },
-  {
-    "datetime_start": "2026-01-17T09:14:00",
-    "datetime_end": "2026-01-17T09:14:00",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-17T09:13:45",
-    "datetime_end": "2026-01-17T09:13:45",
-    "sci_name": "Regulus regulus",
-    "com_name": "Roitelet huppé"
-  },
-  {
-    "datetime_start": "2026-01-17T09:13:42",
-    "datetime_end": "2026-01-17T09:13:33",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-17T09:13:18",
-    "datetime_end": "2026-01-17T09:13:18",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
