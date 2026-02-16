@@ -1,6 +1,12 @@
 [
   {
-    "datetime_start": "2026-02-16T13:28:40",
+    "datetime_start": "2026-02-16T13:34:17",
+    "datetime_end": "2026-02-16T13:34:17",
+    "sci_name": "Mareca strepera",
+    "com_name": "Canard chipeau"
+  },
+  {
+    "datetime_start": "2026-02-16T13:34:14",
     "datetime_end": "2026-02-16T13:28:40",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
@@ -49180,11 +49186,5 @@
     "datetime_end": "2026-01-17T13:35:05",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T13:34:35",
-    "datetime_end": "2026-01-17T13:34:05",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
