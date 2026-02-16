@@ -1,5 +1,17 @@
 [
   {
+    "datetime_start": "2026-02-16T11:38:43",
+    "datetime_end": "2026-02-16T11:38:43",
+    "sci_name": "Parus major",
+    "com_name": "Mésange charbonnière"
+  },
+  {
+    "datetime_start": "2026-02-16T11:38:22",
+    "datetime_end": "2026-02-16T11:38:22",
+    "sci_name": "Cyanistes caeruleus",
+    "com_name": "Mésange bleue"
+  },
+  {
     "datetime_start": "2026-02-16T11:35:04",
     "datetime_end": "2026-02-16T11:35:04",
     "sci_name": "Sitta europaea",
@@ -49366,41 +49378,5 @@
     "datetime_end": "2026-01-17T11:39:19",
     "sci_name": "Coccothraustes coccothraustes",
     "com_name": "Gros-bec casse-noyaux"
-  },
-  {
-    "datetime_start": "2026-01-17T11:39:01",
-    "datetime_end": "2026-01-17T11:39:01",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-01-17T11:38:58",
-    "datetime_end": "2026-01-17T11:38:58",
-    "sci_name": "Coccothraustes coccothraustes",
-    "com_name": "Gros-bec casse-noyaux"
-  },
-  {
-    "datetime_start": "2026-01-17T11:38:55",
-    "datetime_end": "2026-01-17T11:38:55",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T11:38:43",
-    "datetime_end": "2026-01-17T11:38:31",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-01-17T11:38:13",
-    "datetime_end": "2026-01-17T11:38:13",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T11:38:10",
-    "datetime_end": "2026-01-17T11:38:04",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
   }
 ]
