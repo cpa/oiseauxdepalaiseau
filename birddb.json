@@ -49618,23 +49618,5 @@
     "datetime_end": "2026-01-17T09:15:03",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T09:14:51",
-    "datetime_end": "2026-01-17T09:14:51",
-    "sci_name": "Certhia brachydactyla",
-    "com_name": "Grimpereau des jardins"
-  },
-  {
-    "datetime_start": "2026-01-17T09:14:39",
-    "datetime_end": "2026-01-17T09:14:39",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T09:14:15",
-    "datetime_end": "2026-01-17T09:14:12",
-    "sci_name": "Certhia brachydactyla",
-    "com_name": "Grimpereau des jardins"
   }
 ]
