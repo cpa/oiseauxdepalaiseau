@@ -1,5 +1,17 @@
 [
   {
+    "datetime_start": "2026-02-16T08:21:35",
+    "datetime_end": "2026-02-16T08:21:02",
+    "sci_name": "Regulus ignicapilla",
+    "com_name": "Roitelet triple-bandeau"
+  },
+  {
+    "datetime_start": "2026-02-16T08:20:53",
+    "datetime_end": "2026-02-16T08:20:53",
+    "sci_name": "Pica pica",
+    "com_name": "Pie bavarde"
+  },
+  {
     "datetime_start": "2026-02-16T08:20:20",
     "datetime_end": "2026-02-16T08:20:17",
     "sci_name": "Parus major",
@@ -49678,11 +49690,5 @@
     "datetime_end": "2026-01-17T08:22:12",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T08:21:48",
-    "datetime_end": "2026-01-17T08:21:03",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
   }
 ]
