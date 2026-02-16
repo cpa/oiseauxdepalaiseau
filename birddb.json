@@ -1,6 +1,12 @@
 [
   {
-    "datetime_start": "2026-02-16T10:05:27",
+    "datetime_start": "2026-02-16T10:06:39",
+    "datetime_end": "2026-02-16T10:06:27",
+    "sci_name": "Pica pica",
+    "com_name": "Pie bavarde"
+  },
+  {
+    "datetime_start": "2026-02-16T10:05:54",
     "datetime_end": "2026-02-16T10:04:51",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
@@ -49600,11 +49606,5 @@
     "datetime_end": "2026-01-17T10:07:06",
     "sci_name": "Garrulus glandarius",
     "com_name": "Geai des chênes"
-  },
-  {
-    "datetime_start": "2026-01-17T10:06:09",
-    "datetime_end": "2026-01-17T10:06:09",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
