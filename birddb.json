@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-16T13:07:13",
+    "datetime_start": "2026-02-16T13:08:40",
     "datetime_end": "2026-02-16T13:07:13",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
@@ -49222,17 +49222,5 @@
     "datetime_end": "2026-01-17T13:09:59",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T13:08:47",
-    "datetime_end": "2026-01-17T13:08:44",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-01-17T13:08:20",
-    "datetime_end": "2026-01-17T13:08:20",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
