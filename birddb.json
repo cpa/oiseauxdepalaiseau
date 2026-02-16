@@ -49264,23 +49264,5 @@
     "datetime_end": "2026-01-17T12:35:29",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T12:34:38",
-    "datetime_end": "2026-01-17T12:34:38",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-01-17T12:34:32",
-    "datetime_end": "2026-01-17T12:34:32",
-    "sci_name": "Chloris chloris",
-    "com_name": "Verdier d'Europe"
-  },
-  {
-    "datetime_start": "2026-01-17T12:34:29",
-    "datetime_end": "2026-01-17T12:34:29",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
   }
 ]
