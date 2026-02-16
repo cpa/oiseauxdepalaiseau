@@ -49156,17 +49156,5 @@
     "datetime_end": "2026-01-17T13:43:35",
     "sci_name": "Certhia brachydactyla",
     "com_name": "Grimpereau des jardins"
-  },
-  {
-    "datetime_start": "2026-01-17T13:42:32",
-    "datetime_end": "2026-01-17T13:42:32",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T13:42:23",
-    "datetime_end": "2026-01-17T13:42:23",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
