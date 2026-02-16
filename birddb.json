@@ -49201,19 +49201,7 @@
   },
   {
     "datetime_start": "2026-01-17T12:55:53",
-    "datetime_end": "2026-01-17T12:54:38",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-01-17T12:54:35",
-    "datetime_end": "2026-01-17T12:54:08",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T12:54:05",
-    "datetime_end": "2026-01-17T12:54:05",
+    "datetime_end": "2026-01-17T12:55:17",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
   }
