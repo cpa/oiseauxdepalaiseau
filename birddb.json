@@ -1,6 +1,12 @@
 [
   {
-    "datetime_start": "2026-02-16T11:29:19",
+    "datetime_start": "2026-02-16T11:30:43",
+    "datetime_end": "2026-02-16T11:30:43",
+    "sci_name": "Cyanistes caeruleus",
+    "com_name": "Mésange bleue"
+  },
+  {
+    "datetime_start": "2026-02-16T11:30:28",
     "datetime_end": "2026-02-16T11:29:16",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
@@ -49468,17 +49474,5 @@
     "datetime_end": "2026-01-17T11:32:37",
     "sci_name": "Garrulus glandarius",
     "com_name": "Geai des chênes"
-  },
-  {
-    "datetime_start": "2026-01-17T11:30:55",
-    "datetime_end": "2026-01-17T11:30:55",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T11:30:46",
-    "datetime_end": "2026-01-17T11:30:46",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
