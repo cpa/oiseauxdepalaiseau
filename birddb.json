@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-16T13:23:46",
+    "datetime_start": "2026-02-16T13:25:44",
     "datetime_end": "2026-02-16T13:23:43",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
@@ -49192,11 +49192,5 @@
     "datetime_end": "2026-01-17T13:30:20",
     "sci_name": "Sitta europaea",
     "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-01-17T13:25:59",
-    "datetime_end": "2026-01-17T13:25:59",
-    "sci_name": "Certhia brachydactyla",
-    "com_name": "Grimpereau des jardins"
   }
 ]
