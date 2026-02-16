@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-02-16T07:40:44",
+    "datetime_start": "2026-02-16T07:41:35",
     "datetime_end": "2026-02-16T07:39:08",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -49498,11 +49498,5 @@
     "datetime_end": "2026-01-17T07:47:50",
     "sci_name": "Poecile palustris",
     "com_name": "Mésange nonnette"
-  },
-  {
-    "datetime_start": "2026-01-17T07:41:56",
-    "datetime_end": "2026-01-17T07:41:56",
-    "sci_name": "Spinus spinus",
-    "com_name": "Tarin des aulnes"
   }
 ]
