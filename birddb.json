@@ -49177,20 +49177,8 @@
   },
   {
     "datetime_start": "2026-01-17T13:13:02",
-    "datetime_end": "2026-01-17T13:12:35",
+    "datetime_end": "2026-01-17T13:13:02",
     "sci_name": "Coccothraustes coccothraustes",
     "com_name": "Gros-bec casse-noyaux"
-  },
-  {
-    "datetime_start": "2026-01-17T13:12:29",
-    "datetime_end": "2026-01-17T13:12:23",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-01-17T13:12:02",
-    "datetime_end": "2026-01-17T13:12:02",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
