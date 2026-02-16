@@ -1,5 +1,17 @@
 [
   {
+    "datetime_start": "2026-02-16T10:04:18",
+    "datetime_end": "2026-02-16T10:04:15",
+    "sci_name": "Psittacula krameri",
+    "com_name": "Perruche à collier"
+  },
+  {
+    "datetime_start": "2026-02-16T10:03:48",
+    "datetime_end": "2026-02-16T10:03:48",
+    "sci_name": "Erithacus rubecula",
+    "com_name": "Rougegorge familier"
+  },
+  {
     "datetime_start": "2026-02-16T10:02:48",
     "datetime_end": "2026-02-16T09:57:18",
     "sci_name": "Pica pica",
@@ -49591,32 +49603,8 @@
   },
   {
     "datetime_start": "2026-01-17T10:06:00",
-    "datetime_end": "2026-01-17T10:04:51",
+    "datetime_end": "2026-01-17T10:05:03",
     "sci_name": "Sitta europaea",
     "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-01-17T10:04:48",
-    "datetime_end": "2026-01-17T10:04:48",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-01-17T10:04:45",
-    "datetime_end": "2026-01-17T10:04:45",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-01-17T10:04:18",
-    "datetime_end": "2026-01-17T10:04:18",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-01-17T10:04:09",
-    "datetime_end": "2026-01-17T10:04:09",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
