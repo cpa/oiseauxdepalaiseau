@@ -1,29 +1,58 @@
+const PAGE_SIZE = 80;
+
 (async function main() {
   const status = document.getElementById("status");
-  const tbody = document.getElementById("rows");
+  const rowsEl = document.getElementById("rows");
   const dataUrl = "https://raw.githubusercontent.com/cpa/oiseauxdepalaiseau/refs/heads/main/birddb.json";
 
-  try {
-    const res = await fetch(dataUrl, { cache: "no-store" });
-    if (!res.ok) {
-      throw new Error("Echec du chargement JSON (" + res.status + ")");
-    }
+  const imageUrlCache = new Map();
+  let allRows = [];
+  let renderedCount = 0;
+  let isBatchLoading = false;
+  let loadAnchor = null;
+  const imageObserver = new IntersectionObserver(onImageIntersection, {
+    rootMargin: "250px 0px",
+    threshold: 0.01,
+  });
+  const batchObserver = new IntersectionObserver(onBatchIntersection, {
+    rootMargin: "1200px 0px",
+    threshold: 0.01,
+  });
 
-    const data = await res.json();
-    if (!Array.isArray(data)) {
-      throw new Error("Le JSON doit etre un tableau.");
+  function formatStatus() {
+    if (renderedCount === 0) return "Chargement...";
+    if (renderedCount >= allRows.length) {
+      return `Les oiseaux de Palaiseau (${allRows.length})`;
     }
+    return `${renderedCount} / ${allRows.length} oiseaux affichés`;
+  }
 
-    const uniqueSpecies = new Set(
-      data.map((row) => (row.sci_name || "").trim()).filter((name) => name.length > 0)
-    );
-    const imagePromises = new Map();
-    for (const sciName of uniqueSpecies) {
-      imagePromises.set(sciName, getBirdImageUrl(sciName));
+  function createAnchor() {
+    if (loadAnchor) return;
+    loadAnchor = document.createElement("div");
+    loadAnchor.id = "lazy-load-anchor";
+    rowsEl.insertAdjacentElement("afterend", loadAnchor);
+    batchObserver.observe(loadAnchor);
+  }
+
+  function stopObservers() {
+    if (loadAnchor) {
+      batchObserver.unobserve(loadAnchor);
+      loadAnchor.remove();
+      loadAnchor = null;
     }
+  }
 
+  function renderNextBatch() {
+    if (isBatchLoading || renderedCount >= allRows.length) return;
+    isBatchLoading = true;
+
+    const start = renderedCount;
+    const end = Math.min(start + PAGE_SIZE, allRows.length);
     const fragment = document.createDocumentFragment();
-    for (const row of data) {
+
+    for (let i = start; i < end; i++) {
+      const row = allRows[i];
       const card = document.createElement("article");
       card.className = "bird-row";
 
@@ -34,6 +63,14 @@
       image.alt = row.com_name || row.sci_name || "Oiseau";
       image.loading = "lazy";
       image.decoding = "async";
+
+      const sciKey = (row.sci_name || "").trim();
+      if (sciKey) {
+        image.dataset.sciName = sciKey;
+        imageObserver.observe(image);
+      } else {
+        image.classList.add("is-missing");
+      }
       media.appendChild(image);
       card.appendChild(media);
 
@@ -54,12 +91,14 @@
         link.href = wikiUrl;
         link.target = "_blank";
         link.rel = "noopener noreferrer";
-        link.className = "text-emerald-700 underline decoration-emerald-400 underline-offset-2 hover:text-emerald-900";
+        link.className =
+          "text-emerald-700 underline decoration-emerald-400 underline-offset-2 hover:text-emerald-900";
         link.textContent = displayName;
         main.appendChild(link);
       } else {
         main.textContent = displayName;
       }
+
       const sci = document.createElement("div");
       sci.className = "bird-sci";
       sci.textContent = row.sci_name || "";
@@ -67,34 +106,87 @@
       content.appendChild(main);
       card.appendChild(content);
 
-      const sciKey = (row.sci_name || "").trim();
-      const imagePromise = imagePromises.get(sciKey);
-      if (imagePromise) {
-        imagePromise.then((url) => {
+      fragment.appendChild(card);
+    }
+
+    rowsEl.appendChild(fragment);
+    renderedCount = end;
+    status.textContent = formatStatus();
+    isBatchLoading = false;
+
+    if (renderedCount >= allRows.length) {
+      stopObservers();
+    }
+  }
+
+  function onBatchIntersection(entries) {
+    if (!entries.some((entry) => entry.isIntersecting)) return;
+    renderNextBatch();
+  }
+
+  function onImageIntersection(entries) {
+    for (const entry of entries) {
+      if (!entry.isIntersecting) continue;
+      const image = entry.target;
+      imageObserver.unobserve(image);
+
+      const sciName = image.dataset.sciName || "";
+      image.onload = () => {
+        image.classList.add("is-ready");
+        const media = image.parentElement;
+        if (media) media.classList.add("has-image");
+      };
+      image.onerror = () => {
+        image.classList.add("is-missing");
+      };
+
+      getCachedBirdImageUrl(sciName)
+        .then((url) => {
+          if (!image.isConnected) return;
           if (url) {
-            image.onload = () => {
-              image.classList.add("is-ready");
-              media.classList.add("has-image");
-            };
-            image.onerror = () => {
-              image.classList.add("is-missing");
-            };
             image.src = url;
           } else {
             image.classList.add("is-missing");
           }
+        })
+        .catch(() => {
+          if (image.isConnected) image.classList.add("is-missing");
         });
-      } else {
-        image.classList.add("is-missing");
-      }
+    }
+  }
 
-      fragment.appendChild(card);
+  function getCachedBirdImageUrl(scientificName) {
+    const name = (scientificName || "").trim();
+    if (!name) return Promise.resolve("");
+
+    if (imageUrlCache.has(name)) return imageUrlCache.get(name);
+
+    const promise = (async () => {
+      const wikiImage = await getWikipediaFrImage(name);
+      return wikiImage || (await getFlickrImage(name));
+    })();
+    imageUrlCache.set(name, promise);
+    return promise;
+  }
+
+  try {
+    const res = await fetch(dataUrl, { cache: "no-store" });
+    if (!res.ok) {
+      throw new Error("Echec du chargement JSON (" + res.status + ")");
     }
 
-    tbody.replaceChildren(fragment);
-    status.textContent = "Les oiseaux de Palaiseau";
+    const data = await res.json();
+    if (!Array.isArray(data)) {
+      throw new Error("Le JSON doit etre un tableau.");
+    }
+
+    allRows = data;
+    status.textContent = "Chargement initial...";
+    createAnchor();
+    renderNextBatch();
   } catch (err) {
     status.textContent = "Erreur: " + (err && err.message ? err.message : String(err));
+    stopObservers();
   }
 })();
 
