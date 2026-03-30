@@ -216040,11 +216040,5 @@
     "datetime_end": "2026-02-28T10:02:34",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-02-28T10:01:01",
-    "datetime_end": "2026-02-28T10:01:01",
-    "sci_name": "Turdus merula",
-    "com_name": "Merle noir"
   }
 ]
