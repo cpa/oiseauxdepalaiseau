@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T17:39:06",
+    "datetime_start": "2026-03-30T17:39:16",
     "datetime_end": "2026-03-30T17:38:01",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -219100,23 +219100,5 @@
     "datetime_end": "2026-02-28T17:44:02",
     "sci_name": "Pyrrhula pyrrhula",
     "com_name": "Bouvreuil pivoine"
-  },
-  {
-    "datetime_start": "2026-02-28T17:40:50",
-    "datetime_end": "2026-02-28T17:40:50",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-02-28T17:40:44",
-    "datetime_end": "2026-02-28T17:40:44",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-02-28T17:40:11",
-    "datetime_end": "2026-02-28T17:40:11",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
