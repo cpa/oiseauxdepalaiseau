@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T15:04:02",
+    "datetime_start": "2026-03-30T15:05:01",
     "datetime_end": "2026-03-30T15:03:53",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -218932,11 +218932,5 @@
     "datetime_end": "2026-02-28T15:06:03",
     "sci_name": "Phoenicurus ochruros",
     "com_name": "Rougequeue noir"
-  },
-  {
-    "datetime_start": "2026-02-28T15:05:30",
-    "datetime_end": "2026-02-28T15:05:30",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
