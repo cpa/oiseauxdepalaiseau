@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T14:36:51",
+    "datetime_start": "2026-03-30T14:38:04",
     "datetime_end": "2026-03-30T14:32:28",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
@@ -218720,18 +218720,6 @@
   {
     "datetime_start": "2026-02-28T14:43:30",
     "datetime_end": "2026-02-28T14:40:27",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-02-28T14:38:54",
-    "datetime_end": "2026-02-28T14:38:33",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-02-28T14:38:03",
-    "datetime_end": "2026-02-28T14:38:03",
     "sci_name": "Sitta europaea",
     "com_name": "Sittelle torchepot"
   }
