@@ -219055,14 +219055,8 @@
   },
   {
     "datetime_start": "2026-02-28T17:15:07",
-    "datetime_end": "2026-02-28T17:14:43",
+    "datetime_end": "2026-02-28T17:15:07",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-02-28T17:14:25",
-    "datetime_end": "2026-02-28T17:14:10",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
   }
 ]
