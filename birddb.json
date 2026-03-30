@@ -217954,17 +217954,5 @@
     "datetime_end": "2026-02-28T11:30:20",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-02-28T11:29:50",
-    "datetime_end": "2026-02-28T11:29:50",
-    "sci_name": "Regulus ignicapilla",
-    "com_name": "Roitelet triple-bandeau"
-  },
-  {
-    "datetime_start": "2026-02-28T11:29:20",
-    "datetime_end": "2026-02-28T11:29:20",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
