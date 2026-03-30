@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T07:03:49",
+    "datetime_start": "2026-03-30T07:04:50",
     "datetime_end": "2026-03-30T07:03:34",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -213853,19 +213853,7 @@
   },
   {
     "datetime_start": "2026-02-28T07:06:27",
-    "datetime_end": "2026-02-28T07:06:02",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-02-28T07:05:59",
-    "datetime_end": "2026-02-28T07:05:47",
-    "sci_name": "Turdus merula",
-    "com_name": "Merle noir"
-  },
-  {
-    "datetime_start": "2026-02-28T07:05:44",
-    "datetime_end": "2026-02-28T07:05:14",
+    "datetime_end": "2026-02-28T07:06:05",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
   }
