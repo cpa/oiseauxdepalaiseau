@@ -213844,17 +213844,5 @@
     "datetime_end": "2026-02-28T07:07:08",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T07:06:54",
-    "datetime_end": "2026-02-28T07:06:54",
-    "sci_name": "Turdus merula",
-    "com_name": "Merle noir"
-  },
-  {
-    "datetime_start": "2026-02-28T07:06:27",
-    "datetime_end": "2026-02-28T07:06:05",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
