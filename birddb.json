@@ -213553,19 +213553,7 @@
   },
   {
     "datetime_start": "2026-02-28T02:44:06",
-    "datetime_end": "2026-02-28T02:43:33",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T02:43:30",
-    "datetime_end": "2026-02-28T02:43:30",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-02-28T02:43:12",
-    "datetime_end": "2026-02-28T02:43:03",
+    "datetime_end": "2026-02-28T02:44:06",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
   }
