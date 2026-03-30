@@ -213520,17 +213520,5 @@
     "datetime_end": "2026-02-28T02:56:09",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T02:55:54",
-    "datetime_end": "2026-02-28T02:55:54",
-    "sci_name": "Phoenicurus ochruros",
-    "com_name": "Rougequeue noir"
-  },
-  {
-    "datetime_start": "2026-02-28T02:55:33",
-    "datetime_end": "2026-02-28T02:55:33",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
   }
 ]
