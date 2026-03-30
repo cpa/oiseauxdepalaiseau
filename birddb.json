@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T09:16:01",
+    "datetime_start": "2026-03-30T09:16:50",
     "datetime_end": "2026-03-30T09:16:00",
     "sci_name": "Phylloscopus collybita",
     "com_name": "Pouillot véloce"
@@ -215557,14 +215557,8 @@
   },
   {
     "datetime_start": "2026-02-28T09:18:31",
-    "datetime_end": "2026-02-28T09:17:34",
+    "datetime_end": "2026-02-28T09:18:31",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-02-28T09:17:16",
-    "datetime_end": "2026-02-28T09:17:10",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
