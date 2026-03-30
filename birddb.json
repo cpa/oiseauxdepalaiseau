@@ -213580,29 +213580,5 @@
     "datetime_end": "2026-02-28T02:42:12",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T02:41:54",
-    "datetime_end": "2026-02-28T02:41:54",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-02-28T02:41:45",
-    "datetime_end": "2026-02-28T02:41:45",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T02:41:27",
-    "datetime_end": "2026-02-28T02:41:27",
-    "sci_name": "Sylvia atricapilla",
-    "com_name": "Fauvette à tête noire"
-  },
-  {
-    "datetime_start": "2026-02-28T02:41:06",
-    "datetime_end": "2026-02-28T02:41:06",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
   }
 ]
