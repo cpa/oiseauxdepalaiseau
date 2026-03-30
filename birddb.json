@@ -1,6 +1,12 @@
 [
   {
-    "datetime_start": "2026-03-30T18:43:53",
+    "datetime_start": "2026-03-30T18:45:09",
+    "datetime_end": "2026-03-30T18:44:59",
+    "sci_name": "Pica pica",
+    "com_name": "Pie bavarde"
+  },
+  {
+    "datetime_start": "2026-03-30T18:44:40",
     "datetime_end": "2026-03-30T18:43:23",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
@@ -219073,7 +219079,7 @@
   },
   {
     "datetime_start": "2026-02-28T18:48:53",
-    "datetime_end": "2026-02-28T18:45:35",
+    "datetime_end": "2026-02-28T18:48:53",
     "sci_name": "Turdus merula",
     "com_name": "Merle noir"
   }
