@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T09:16:50",
+    "datetime_start": "2026-03-30T09:17:54",
     "datetime_end": "2026-03-30T09:16:00",
     "sci_name": "Phylloscopus collybita",
     "com_name": "Pouillot véloce"
@@ -215554,11 +215554,5 @@
     "datetime_end": "2026-02-28T09:19:55",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-02-28T09:18:31",
-    "datetime_end": "2026-02-28T09:18:31",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
