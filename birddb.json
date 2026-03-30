@@ -213541,19 +213541,7 @@
   },
   {
     "datetime_start": "2026-02-28T02:45:57",
-    "datetime_end": "2026-02-28T02:44:15",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T02:44:09",
-    "datetime_end": "2026-02-28T02:44:09",
-    "sci_name": "Poecile palustris",
-    "com_name": "Mésange nonnette"
-  },
-  {
-    "datetime_start": "2026-02-28T02:44:06",
-    "datetime_end": "2026-02-28T02:44:06",
+    "datetime_end": "2026-02-28T02:45:06",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
   }
