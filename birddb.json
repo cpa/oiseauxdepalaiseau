@@ -213760,17 +213760,5 @@
     "datetime_end": "2026-02-28T06:24:08",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T06:24:02",
-    "datetime_end": "2026-02-28T06:24:02",
-    "sci_name": "Turdus merula",
-    "com_name": "Merle noir"
-  },
-  {
-    "datetime_start": "2026-02-28T06:24:02",
-    "datetime_end": "2026-02-28T06:23:53",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
   }
 ]
