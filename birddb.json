@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T08:29:01",
+    "datetime_start": "2026-03-30T08:29:51",
     "datetime_end": "2026-03-30T08:28:51",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
@@ -214636,11 +214636,5 @@
     "datetime_end": "2026-02-28T08:31:33",
     "sci_name": "Spinus spinus",
     "com_name": "Tarin des aulnes"
-  },
-  {
-    "datetime_start": "2026-02-28T08:30:51",
-    "datetime_end": "2026-02-28T08:30:18",
-    "sci_name": "Turdus merula",
-    "com_name": "Merle noir"
   }
 ]
