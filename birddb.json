@@ -219049,19 +219049,7 @@
   },
   {
     "datetime_start": "2026-02-28T18:03:32",
-    "datetime_end": "2026-02-28T18:00:56",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T18:00:50",
-    "datetime_end": "2026-02-28T18:00:50",
-    "sci_name": "Picus viridis",
-    "com_name": "Pic vert"
-  },
-  {
-    "datetime_start": "2026-02-28T18:00:32",
-    "datetime_end": "2026-02-28T18:00:14",
+    "datetime_end": "2026-02-28T18:01:08",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
   }
