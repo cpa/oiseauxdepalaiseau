@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-03-30T10:37:44",
+    "datetime_end": "2026-03-30T10:37:44",
+    "sci_name": "Cyanistes caeruleus",
+    "com_name": "Mésange bleue"
+  },
+  {
     "datetime_start": "2026-03-30T10:36:49",
     "datetime_end": "2026-03-30T10:36:48",
     "sci_name": "Garrulus glandarius",
@@ -216640,11 +216646,5 @@
     "datetime_end": "2026-02-28T10:40:22",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-02-28T10:38:58",
-    "datetime_end": "2026-02-28T10:38:19",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
