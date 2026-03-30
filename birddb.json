@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T07:53:58",
+    "datetime_start": "2026-03-30T07:55:03",
     "datetime_end": "2026-03-30T07:53:37",
     "sci_name": "Phylloscopus collybita",
     "com_name": "Pouillot véloce"
@@ -214270,11 +214270,5 @@
     "datetime_end": "2026-02-28T07:58:18",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-02-28T07:55:15",
-    "datetime_end": "2026-02-28T07:55:09",
-    "sci_name": "Prunella modularis",
-    "com_name": "Accenteur mouchet"
   }
 ]
