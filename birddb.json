@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T15:20:02",
+    "datetime_start": "2026-03-30T15:21:40",
     "datetime_end": "2026-03-30T15:19:51",
     "sci_name": "Turdus merula",
     "com_name": "Merle noir"
@@ -218962,11 +218962,5 @@
     "datetime_end": "2026-02-28T15:28:13",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-02-28T15:23:01",
-    "datetime_end": "2026-02-28T15:23:01",
-    "sci_name": "Poecile palustris",
-    "com_name": "Mésange nonnette"
   }
 ]
