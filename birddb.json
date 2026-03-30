@@ -218779,38 +218779,8 @@
   },
   {
     "datetime_start": "2026-02-28T13:59:15",
-    "datetime_end": "2026-02-28T13:58:57",
+    "datetime_end": "2026-02-28T13:59:15",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-02-28T13:58:54",
-    "datetime_end": "2026-02-28T13:58:30",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-02-28T13:58:21",
-    "datetime_end": "2026-02-28T13:58:18",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-02-28T13:58:12",
-    "datetime_end": "2026-02-28T13:58:12",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-02-28T13:58:09",
-    "datetime_end": "2026-02-28T13:58:09",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-02-28T13:58:03",
-    "datetime_end": "2026-02-28T13:58:03",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
