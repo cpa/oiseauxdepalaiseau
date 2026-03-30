@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T17:54:06",
+    "datetime_start": "2026-03-30T17:55:00",
     "datetime_end": "2026-03-30T17:49:54",
     "sci_name": "Turdus merula",
     "com_name": "Merle noir"
@@ -219085,31 +219085,7 @@
   },
   {
     "datetime_start": "2026-02-28T17:57:32",
-    "datetime_end": "2026-02-28T17:55:56",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T17:55:47",
-    "datetime_end": "2026-02-28T17:55:47",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-02-28T17:55:44",
-    "datetime_end": "2026-02-28T17:55:17",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T17:55:14",
-    "datetime_end": "2026-02-28T17:55:14",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-02-28T17:55:11",
-    "datetime_end": "2026-02-28T17:55:08",
+    "datetime_end": "2026-02-28T17:56:41",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
   }
