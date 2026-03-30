@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T07:33:03",
+    "datetime_start": "2026-03-30T07:33:59",
     "datetime_end": "2026-03-30T07:31:39",
     "sci_name": "Certhia brachydactyla",
     "com_name": "Grimpereau des jardins"
@@ -214171,14 +214171,8 @@
   },
   {
     "datetime_start": "2026-02-28T07:35:51",
-    "datetime_end": "2026-02-28T07:34:21",
+    "datetime_end": "2026-02-28T07:35:42",
     "sci_name": "Regulus ignicapilla",
     "com_name": "Roitelet triple-bandeau"
-  },
-  {
-    "datetime_start": "2026-02-28T07:34:09",
-    "datetime_end": "2026-02-28T07:34:03",
-    "sci_name": "Turdus merula",
-    "com_name": "Merle noir"
   }
 ]
