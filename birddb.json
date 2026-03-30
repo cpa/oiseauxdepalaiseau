@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-03-30T18:26:14",
+    "datetime_end": "2026-03-30T18:26:12",
+    "sci_name": "Regulus ignicapilla",
+    "com_name": "Roitelet triple-bandeau"
+  },
+  {
     "datetime_start": "2026-03-30T18:25:44",
     "datetime_end": "2026-03-30T18:24:56",
     "sci_name": "Parus major",
@@ -219028,17 +219034,5 @@
     "datetime_end": "2026-02-28T18:32:08",
     "sci_name": "Turdus merula",
     "com_name": "Merle noir"
-  },
-  {
-    "datetime_start": "2026-02-28T18:27:53",
-    "datetime_end": "2026-02-28T18:27:53",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T18:27:44",
-    "datetime_end": "2026-02-28T18:27:44",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
