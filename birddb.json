@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T14:42:06",
+    "datetime_start": "2026-03-30T14:43:07",
     "datetime_end": "2026-03-30T14:41:30",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
@@ -218750,18 +218750,6 @@
   {
     "datetime_start": "2026-02-28T14:44:09",
     "datetime_end": "2026-02-28T14:44:03",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-02-28T14:44:00",
-    "datetime_end": "2026-02-28T14:44:00",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-02-28T14:43:30",
-    "datetime_end": "2026-02-28T14:43:30",
     "sci_name": "Sitta europaea",
     "com_name": "Sittelle torchepot"
   }
