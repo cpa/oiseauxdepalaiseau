@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T15:39:38",
+    "datetime_start": "2026-03-30T15:41:02",
     "datetime_end": "2026-03-30T15:39:38",
     "sci_name": "Phylloscopus collybita",
     "com_name": "Pouillot véloce"
@@ -219049,19 +219049,7 @@
   },
   {
     "datetime_start": "2026-02-28T15:42:58",
-    "datetime_end": "2026-02-28T15:41:49",
-    "sci_name": "Poecile palustris",
-    "com_name": "Mésange nonnette"
-  },
-  {
-    "datetime_start": "2026-02-28T15:41:43",
-    "datetime_end": "2026-02-28T15:41:43",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-02-28T15:41:28",
-    "datetime_end": "2026-02-28T15:41:16",
+    "datetime_end": "2026-02-28T15:42:04",
     "sci_name": "Poecile palustris",
     "com_name": "Mésange nonnette"
   }
