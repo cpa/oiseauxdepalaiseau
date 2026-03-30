@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T16:01:04",
+    "datetime_start": "2026-03-30T16:02:09",
     "datetime_end": "2026-03-30T15:59:57",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
@@ -218968,23 +218968,5 @@
     "datetime_end": "2026-02-28T16:03:07",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-02-28T16:02:22",
-    "datetime_end": "2026-02-28T16:02:22",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-02-28T16:02:10",
-    "datetime_end": "2026-02-28T16:02:10",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T16:02:07",
-    "datetime_end": "2026-02-28T16:02:07",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
