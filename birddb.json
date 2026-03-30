@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T12:37:57",
+    "datetime_start": "2026-03-30T12:38:59",
     "datetime_end": "2026-03-30T12:37:33",
     "sci_name": "Phylloscopus collybita",
     "com_name": "Pouillot véloce"
@@ -218650,11 +218650,5 @@
     "datetime_end": "2026-02-28T12:41:23",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-02-28T12:39:50",
-    "datetime_end": "2026-02-28T12:39:50",
-    "sci_name": "Picus viridis",
-    "com_name": "Pic vert"
   }
 ]
