@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T17:28:10",
+    "datetime_start": "2026-03-30T17:29:10",
     "datetime_end": "2026-03-30T17:26:54",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -219124,11 +219124,5 @@
     "datetime_end": "2026-02-28T17:31:35",
     "sci_name": "Dendrocopos major",
     "com_name": "Pic épeiche"
-  },
-  {
-    "datetime_start": "2026-02-28T17:29:35",
-    "datetime_end": "2026-02-28T17:29:35",
-    "sci_name": "Regulus ignicapilla",
-    "com_name": "Roitelet triple-bandeau"
   }
 ]
