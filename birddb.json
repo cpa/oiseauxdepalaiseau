@@ -218953,14 +218953,8 @@
   },
   {
     "datetime_start": "2026-02-28T16:16:25",
-    "datetime_end": "2026-02-28T16:12:55",
+    "datetime_end": "2026-02-28T16:13:04",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-02-28T16:12:25",
-    "datetime_end": "2026-02-28T16:12:25",
-    "sci_name": "Dendrocopos major",
-    "com_name": "Pic épeiche"
   }
 ]
