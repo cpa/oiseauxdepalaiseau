@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T00:59:58",
+    "datetime_start": "2026-03-31T01:01:43",
     "datetime_end": "2026-03-30T23:59:10",
     "sci_name": "Turdus iliacus",
     "com_name": "Grive mauvis"
@@ -220072,11 +220072,5 @@
     "datetime_end": "2026-03-01T02:38:36",
     "sci_name": "Gallinago gallinago",
     "com_name": "Bécassine des marais"
-  },
-  {
-    "datetime_start": "2026-03-01T01:02:20",
-    "datetime_end": "2026-03-01T01:02:20",
-    "sci_name": "Turdus iliacus",
-    "com_name": "Grive mauvis"
   }
 ]
