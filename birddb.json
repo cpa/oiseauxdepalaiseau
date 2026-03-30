@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T13:09:58",
+    "datetime_start": "2026-03-30T13:10:39",
     "datetime_end": "2026-03-30T13:09:47",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
@@ -218944,23 +218944,5 @@
     "datetime_end": "2026-02-28T13:12:08",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-02-28T13:11:53",
-    "datetime_end": "2026-02-28T13:11:53",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-02-28T13:11:32",
-    "datetime_end": "2026-02-28T13:11:32",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-02-28T13:11:20",
-    "datetime_end": "2026-02-28T13:11:08",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
