@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T11:38:07",
+    "datetime_start": "2026-03-30T11:39:02",
     "datetime_end": "2026-03-30T11:32:35",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -217952,18 +217952,6 @@
   {
     "datetime_start": "2026-02-28T11:41:20",
     "datetime_end": "2026-02-28T11:40:26",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-02-28T11:39:53",
-    "datetime_end": "2026-02-28T11:39:08",
-    "sci_name": "Regulus ignicapilla",
-    "com_name": "Roitelet triple-bandeau"
-  },
-  {
-    "datetime_start": "2026-02-28T11:39:05",
-    "datetime_end": "2026-02-28T11:39:05",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
   }
