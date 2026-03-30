@@ -218806,11 +218806,5 @@
     "datetime_end": "2026-02-28T14:20:30",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-02-28T14:19:27",
-    "datetime_end": "2026-02-28T14:19:27",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
