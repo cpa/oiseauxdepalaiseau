@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T09:34:59",
+    "datetime_start": "2026-03-30T09:36:02",
     "datetime_end": "2026-03-30T09:34:59",
     "sci_name": "Phylloscopus collybita",
     "com_name": "Pouillot véloce"
@@ -215851,19 +215851,7 @@
   },
   {
     "datetime_start": "2026-02-28T09:39:28",
-    "datetime_end": "2026-02-28T09:36:34",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-02-28T09:36:22",
-    "datetime_end": "2026-02-28T09:36:22",
-    "sci_name": "Garrulus glandarius",
-    "com_name": "Geai des chênes"
-  },
-  {
-    "datetime_start": "2026-02-28T09:36:07",
-    "datetime_end": "2026-02-28T09:36:04",
+    "datetime_end": "2026-02-28T09:37:04",
     "sci_name": "Sitta europaea",
     "com_name": "Sittelle torchepot"
   }
