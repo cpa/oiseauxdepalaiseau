@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T11:42:20",
+    "datetime_start": "2026-03-30T11:43:55",
     "datetime_end": "2026-03-30T11:42:20",
     "sci_name": "Regulus ignicapilla",
     "com_name": "Roitelet triple-bandeau"
@@ -217966,11 +217966,5 @@
     "datetime_end": "2026-02-28T11:49:44",
     "sci_name": "Garrulus glandarius",
     "com_name": "Geai des chênes"
-  },
-  {
-    "datetime_start": "2026-02-28T11:45:02",
-    "datetime_end": "2026-02-28T11:44:08",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
