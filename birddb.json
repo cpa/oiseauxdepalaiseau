@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T14:35:21",
+    "datetime_start": "2026-03-30T14:36:51",
     "datetime_end": "2026-03-30T14:32:28",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
@@ -218731,14 +218731,8 @@
   },
   {
     "datetime_start": "2026-02-28T14:38:03",
-    "datetime_end": "2026-02-28T14:37:57",
+    "datetime_end": "2026-02-28T14:38:03",
     "sci_name": "Sitta europaea",
     "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-02-28T14:37:12",
-    "datetime_end": "2026-02-28T14:37:12",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
   }
 ]
