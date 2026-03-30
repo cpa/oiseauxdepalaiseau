@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T09:45:03",
+    "datetime_start": "2026-03-30T09:45:13",
     "datetime_end": "2026-03-30T09:45:03",
     "sci_name": "Sitta europaea",
     "com_name": "Sittelle torchepot"
@@ -215972,18 +215972,6 @@
   {
     "datetime_start": "2026-02-28T09:48:16",
     "datetime_end": "2026-02-28T09:47:13",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T09:46:43",
-    "datetime_end": "2026-02-28T09:46:43",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-02-28T09:46:28",
-    "datetime_end": "2026-02-28T09:46:28",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
   }
