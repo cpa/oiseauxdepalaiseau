@@ -218908,17 +218908,5 @@
     "datetime_end": "2026-02-28T13:33:18",
     "sci_name": "Poecile palustris",
     "com_name": "Mésange nonnette"
-  },
-  {
-    "datetime_start": "2026-02-28T13:32:39",
-    "datetime_end": "2026-02-28T13:32:39",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-02-28T13:32:30",
-    "datetime_end": "2026-02-28T13:32:18",
-    "sci_name": "Poecile palustris",
-    "com_name": "Mésange nonnette"
   }
 ]
