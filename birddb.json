@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-30T17:04:00",
+    "datetime_start": "2026-03-30T17:04:54",
     "datetime_end": "2026-03-30T17:03:59",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
@@ -219064,11 +219064,5 @@
     "datetime_end": "2026-02-28T17:06:10",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-02-28T17:05:19",
-    "datetime_end": "2026-02-28T17:05:19",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
