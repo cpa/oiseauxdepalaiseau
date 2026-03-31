@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T09:36:51",
+    "datetime_start": "2026-03-31T09:38:11",
     "datetime_end": "2026-03-31T09:36:50",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -223198,11 +223198,5 @@
     "datetime_end": "2026-03-01T09:40:03",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-03-01T09:38:12",
-    "datetime_end": "2026-03-01T09:38:12",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
