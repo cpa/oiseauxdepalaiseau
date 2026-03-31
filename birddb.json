@@ -219889,19 +219889,7 @@
   },
   {
     "datetime_start": "2026-03-01T04:07:46",
-    "datetime_end": "2026-03-01T04:01:58",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-03-01T04:01:52",
-    "datetime_end": "2026-03-01T04:01:52",
-    "sci_name": "Sylvia atricapilla",
-    "com_name": "Fauvette à tête noire"
-  },
-  {
-    "datetime_start": "2026-03-01T04:01:49",
-    "datetime_end": "2026-03-01T04:01:10",
+    "datetime_end": "2026-03-01T04:02:04",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
   }
