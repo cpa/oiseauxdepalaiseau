@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T06:51:05",
+    "datetime_start": "2026-03-31T06:52:14",
     "datetime_end": "2026-03-31T06:47:38",
     "sci_name": "Turdus merula",
     "com_name": "Merle noir"
@@ -221704,11 +221704,5 @@
     "datetime_end": "2026-03-01T06:57:11",
     "sci_name": "Turdus merula",
     "com_name": "Merle noir"
-  },
-  {
-    "datetime_start": "2026-03-01T06:52:56",
-    "datetime_end": "2026-03-01T06:52:47",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
