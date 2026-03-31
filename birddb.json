@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T11:24:14",
+    "datetime_start": "2026-03-31T11:25:16",
     "datetime_end": "2026-03-31T11:22:55",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -224530,11 +224530,5 @@
     "datetime_end": "2026-03-01T11:27:31",
     "sci_name": "Turdus iliacus",
     "com_name": "Grive mauvis"
-  },
-  {
-    "datetime_start": "2026-03-01T11:25:28",
-    "datetime_end": "2026-03-01T11:25:28",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
   }
 ]
