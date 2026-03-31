@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T07:19:54",
+    "datetime_start": "2026-03-31T07:21:14",
     "datetime_end": "2026-03-31T07:19:18",
     "sci_name": "Regulus ignicapilla",
     "com_name": "Roitelet triple-bandeau"
@@ -221884,11 +221884,5 @@
     "datetime_end": "2026-03-01T07:22:05",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-03-01T07:21:32",
-    "datetime_end": "2026-03-01T07:21:32",
-    "sci_name": "Strix aluco",
-    "com_name": "Chouette hulotte"
   }
 ]
