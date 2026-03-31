@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T07:26:15",
+    "datetime_start": "2026-03-31T07:27:17",
     "datetime_end": "2026-03-31T07:25:11",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
@@ -221872,17 +221872,5 @@
     "datetime_end": "2026-03-01T07:28:26",
     "sci_name": "Picus viridis",
     "com_name": "Pic vert"
-  },
-  {
-    "datetime_start": "2026-03-01T07:27:47",
-    "datetime_end": "2026-03-01T07:27:47",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-03-01T07:27:05",
-    "datetime_end": "2026-03-01T07:27:05",
-    "sci_name": "Regulus ignicapilla",
-    "com_name": "Roitelet triple-bandeau"
   }
 ]
