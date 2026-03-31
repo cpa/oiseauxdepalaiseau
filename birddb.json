@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T15:37:52",
+    "datetime_start": "2026-03-31T15:39:06",
     "datetime_end": "2026-03-31T15:36:08",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
@@ -228076,29 +228076,5 @@
     "datetime_end": "2026-03-01T15:41:21",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-03-01T15:39:54",
-    "datetime_end": "2026-03-01T15:39:54",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-03-01T15:39:48",
-    "datetime_end": "2026-03-01T15:39:33",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-03-01T15:39:30",
-    "datetime_end": "2026-03-01T15:39:30",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-03-01T15:39:27",
-    "datetime_end": "2026-03-01T15:39:27",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
