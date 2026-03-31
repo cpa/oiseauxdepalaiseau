@@ -221920,17 +221920,5 @@
     "datetime_end": "2026-03-01T07:43:32",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-03-01T07:40:48",
-    "datetime_end": "2026-03-01T07:40:45",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-03-01T07:40:39",
-    "datetime_end": "2026-03-01T07:40:39",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
