@@ -229078,23 +229078,5 @@
     "datetime_end": "2026-03-01T18:26:17",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-03-01T18:25:59",
-    "datetime_end": "2026-03-01T18:25:59",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-03-01T18:25:41",
-    "datetime_end": "2026-03-01T18:25:38",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-03-01T18:25:20",
-    "datetime_end": "2026-03-01T18:25:08",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
   }
 ]
