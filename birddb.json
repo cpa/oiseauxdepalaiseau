@@ -1,5 +1,17 @@
 [
   {
+    "datetime_start": "2026-03-31T08:42:03",
+    "datetime_end": "2026-03-31T08:41:41",
+    "sci_name": "Regulus ignicapilla",
+    "com_name": "Roitelet triple-bandeau"
+  },
+  {
+    "datetime_start": "2026-03-31T08:41:37",
+    "datetime_end": "2026-03-31T08:41:37",
+    "sci_name": "Parus major",
+    "com_name": "Mésange charbonnière"
+  },
+  {
     "datetime_start": "2026-03-31T08:40:54",
     "datetime_end": "2026-03-31T08:40:53",
     "sci_name": "Psittacula krameri",
@@ -222718,17 +222730,5 @@
     "datetime_end": "2026-03-01T08:44:51",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-03-01T08:42:27",
-    "datetime_end": "2026-03-01T08:42:27",
-    "sci_name": "Picus viridis",
-    "com_name": "Pic vert"
-  },
-  {
-    "datetime_start": "2026-03-01T08:42:24",
-    "datetime_end": "2026-03-01T08:42:24",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
   }
 ]
