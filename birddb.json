@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-03-31T16:58:08",
+    "datetime_end": "2026-03-31T16:58:08",
+    "sci_name": "Pica pica",
+    "com_name": "Pie bavarde"
+  },
+  {
     "datetime_start": "2026-03-31T16:56:31",
     "datetime_end": "2026-03-31T16:56:31",
     "sci_name": "Turdus philomelos",
@@ -228589,7 +228595,7 @@
   },
   {
     "datetime_start": "2026-03-01T16:59:13",
-    "datetime_end": "2026-03-01T16:58:28",
+    "datetime_end": "2026-03-01T16:59:13",
     "sci_name": "Parus major",
     "com_name": "Mésange charbonnière"
   }
