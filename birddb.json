@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T07:51:11",
+    "datetime_start": "2026-03-31T07:51:31",
     "datetime_end": "2026-03-31T07:51:11",
     "sci_name": "Regulus ignicapilla",
     "com_name": "Roitelet triple-bandeau"
@@ -222016,11 +222016,5 @@
     "datetime_end": "2026-03-01T07:53:36",
     "sci_name": "Regulus ignicapilla",
     "com_name": "Roitelet triple-bandeau"
-  },
-  {
-    "datetime_start": "2026-03-01T07:52:09",
-    "datetime_end": "2026-03-01T07:52:09",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
   }
 ]
