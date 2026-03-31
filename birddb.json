@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T16:48:19",
+    "datetime_start": "2026-03-31T16:48:33",
     "datetime_end": "2026-03-31T16:47:35",
     "sci_name": "Turdus merula",
     "com_name": "Merle noir"
@@ -228574,11 +228574,5 @@
     "datetime_end": "2026-03-01T16:51:10",
     "sci_name": "Fringilla coelebs",
     "com_name": "Pinson des arbres"
-  },
-  {
-    "datetime_start": "2026-03-01T16:49:43",
-    "datetime_end": "2026-03-01T16:49:43",
-    "sci_name": "Turdus iliacus",
-    "com_name": "Grive mauvis"
   }
 ]
