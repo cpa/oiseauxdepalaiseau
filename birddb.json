@@ -1,6 +1,12 @@
 [
   {
-    "datetime_start": "2026-03-31T09:41:09",
+    "datetime_start": "2026-03-31T09:41:49",
+    "datetime_end": "2026-03-31T09:41:44",
+    "sci_name": "Pica pica",
+    "com_name": "Pie bavarde"
+  },
+  {
+    "datetime_start": "2026-03-31T09:41:26",
     "datetime_end": "2026-03-31T09:41:07",
     "sci_name": "Regulus ignicapilla",
     "com_name": "Roitelet triple-bandeau"
@@ -223216,11 +223222,5 @@
     "datetime_end": "2026-03-01T09:43:31",
     "sci_name": "Regulus ignicapilla",
     "com_name": "Roitelet triple-bandeau"
-  },
-  {
-    "datetime_start": "2026-03-01T09:42:42",
-    "datetime_end": "2026-03-01T09:42:42",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
