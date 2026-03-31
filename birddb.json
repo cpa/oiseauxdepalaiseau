@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T13:15:16",
+    "datetime_start": "2026-03-31T13:15:31",
     "datetime_end": "2026-03-31T13:14:10",
     "sci_name": "Turdus merula",
     "com_name": "Merle noir"
@@ -226120,11 +226120,5 @@
     "datetime_end": "2026-03-01T13:17:44",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-03-01T13:16:53",
-    "datetime_end": "2026-03-01T13:16:47",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
   }
 ]
