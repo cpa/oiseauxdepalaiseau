@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T07:53:07",
+    "datetime_start": "2026-03-31T07:53:58",
     "datetime_end": "2026-03-31T07:51:11",
     "sci_name": "Regulus ignicapilla",
     "com_name": "Roitelet triple-bandeau"
@@ -222004,11 +222004,5 @@
     "datetime_end": "2026-03-01T07:55:18",
     "sci_name": "Sitta europaea",
     "com_name": "Sittelle torchepot"
-  },
-  {
-    "datetime_start": "2026-03-01T07:54:48",
-    "datetime_end": "2026-03-01T07:54:48",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
