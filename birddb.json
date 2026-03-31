@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T18:22:15",
+    "datetime_start": "2026-03-31T18:22:48",
     "datetime_end": "2026-03-31T18:22:07",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
@@ -229088,18 +229088,6 @@
   {
     "datetime_start": "2026-03-01T18:24:11",
     "datetime_end": "2026-03-01T18:24:11",
-    "sci_name": "Regulus ignicapilla",
-    "com_name": "Roitelet triple-bandeau"
-  },
-  {
-    "datetime_start": "2026-03-01T18:23:44",
-    "datetime_end": "2026-03-01T18:23:38",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-03-01T18:23:26",
-    "datetime_end": "2026-03-01T18:23:26",
     "sci_name": "Regulus ignicapilla",
     "com_name": "Roitelet triple-bandeau"
   }
