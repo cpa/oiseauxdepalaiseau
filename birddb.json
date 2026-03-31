@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T07:42:10",
+    "datetime_start": "2026-03-31T07:43:12",
     "datetime_end": "2026-03-31T07:42:09",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
@@ -221938,11 +221938,5 @@
     "datetime_end": "2026-03-01T07:45:45",
     "sci_name": "Regulus ignicapilla",
     "com_name": "Roitelet triple-bandeau"
-  },
-  {
-    "datetime_start": "2026-03-01T07:43:32",
-    "datetime_end": "2026-03-01T07:43:32",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
