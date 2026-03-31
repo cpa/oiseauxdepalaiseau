@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T10:18:44",
+    "datetime_start": "2026-03-31T10:20:15",
     "datetime_end": "2026-03-31T10:18:30",
     "sci_name": "Regulus ignicapilla",
     "com_name": "Roitelet triple-bandeau"
@@ -223816,11 +223816,5 @@
     "datetime_end": "2026-03-01T10:21:25",
     "sci_name": "Psittacula krameri",
     "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-03-01T10:20:58",
-    "datetime_end": "2026-03-01T10:20:28",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
   }
 ]
