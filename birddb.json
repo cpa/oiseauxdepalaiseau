@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T17:20:35",
+    "datetime_start": "2026-03-31T17:22:20",
     "datetime_end": "2026-03-31T17:20:33",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
@@ -228742,11 +228742,5 @@
     "datetime_end": "2026-03-01T17:28:31",
     "sci_name": "Turdus philomelos",
     "com_name": "Grive musicienne"
-  },
-  {
-    "datetime_start": "2026-03-01T17:22:19",
-    "datetime_end": "2026-03-01T17:22:13",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
   }
 ]
