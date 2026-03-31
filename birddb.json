@@ -227110,17 +227110,5 @@
     "datetime_end": "2026-03-01T14:12:36",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-03-01T14:09:00",
-    "datetime_end": "2026-03-01T14:09:00",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-03-01T14:08:18",
-    "datetime_end": "2026-03-01T14:08:18",
-    "sci_name": "Prunella modularis",
-    "com_name": "Accenteur mouchet"
   }
 ]
