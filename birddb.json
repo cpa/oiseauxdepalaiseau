@@ -219985,26 +219985,8 @@
   },
   {
     "datetime_start": "2026-03-01T03:34:37",
-    "datetime_end": "2026-03-01T03:31:36",
+    "datetime_end": "2026-03-01T03:32:03",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-03-01T03:31:24",
-    "datetime_end": "2026-03-01T03:31:24",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-03-01T03:31:21",
-    "datetime_end": "2026-03-01T03:31:21",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-03-01T03:31:06",
-    "datetime_end": "2026-03-01T03:31:06",
-    "sci_name": "Phoenicurus ochruros",
-    "com_name": "Rougequeue noir"
   }
 ]
