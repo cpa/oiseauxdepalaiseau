@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T15:19:19",
+    "datetime_start": "2026-03-31T15:20:07",
     "datetime_end": "2026-03-31T15:18:59",
     "sci_name": "Turdus merula",
     "com_name": "Merle noir"
@@ -227935,25 +227935,7 @@
   },
   {
     "datetime_start": "2026-03-01T15:22:27",
-    "datetime_end": "2026-03-01T15:20:36",
-    "sci_name": "Cyanistes caeruleus",
-    "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-03-01T15:20:33",
-    "datetime_end": "2026-03-01T15:20:33",
-    "sci_name": "Troglodytes troglodytes",
-    "com_name": "Troglodyte mignon"
-  },
-  {
-    "datetime_start": "2026-03-01T15:20:27",
-    "datetime_end": "2026-03-01T15:20:18",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
-  },
-  {
-    "datetime_start": "2026-03-01T15:20:09",
-    "datetime_end": "2026-03-01T15:20:03",
+    "datetime_end": "2026-03-01T15:21:03",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
   }
