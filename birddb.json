@@ -227104,17 +227104,5 @@
     "datetime_end": "2026-03-01T14:00:27",
     "sci_name": "Cyanistes caeruleus",
     "com_name": "Mésange bleue"
-  },
-  {
-    "datetime_start": "2026-03-01T13:59:47",
-    "datetime_end": "2026-03-01T13:59:47",
-    "sci_name": "Actitis hypoleucos",
-    "com_name": "Chevalier guignette"
-  },
-  {
-    "datetime_start": "2026-03-01T13:59:38",
-    "datetime_end": "2026-03-01T13:59:35",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
