@@ -1,5 +1,11 @@
 [
   {
+    "datetime_start": "2026-03-31T08:43:38",
+    "datetime_end": "2026-03-31T08:43:38",
+    "sci_name": "Sitta europaea",
+    "com_name": "Sittelle torchepot"
+  },
+  {
     "datetime_start": "2026-03-31T08:43:15",
     "datetime_end": "2026-03-31T08:43:15",
     "sci_name": "Turdus philomelos",
@@ -222724,17 +222730,5 @@
     "datetime_end": "2026-03-01T08:46:36",
     "sci_name": "Turdus iliacus",
     "com_name": "Grive mauvis"
-  },
-  {
-    "datetime_start": "2026-03-01T08:45:03",
-    "datetime_end": "2026-03-01T08:45:03",
-    "sci_name": "Pica pica",
-    "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-03-01T08:44:51",
-    "datetime_end": "2026-03-01T08:44:51",
-    "sci_name": "Psittacula krameri",
-    "com_name": "Perruche à collier"
   }
 ]
