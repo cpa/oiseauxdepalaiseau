@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T16:50:20",
+    "datetime_start": "2026-03-31T16:50:26",
     "datetime_end": "2026-03-31T16:47:35",
     "sci_name": "Turdus merula",
     "com_name": "Merle noir"
@@ -228568,11 +228568,5 @@
     "datetime_end": "2026-03-01T16:54:49",
     "sci_name": "Pica pica",
     "com_name": "Pie bavarde"
-  },
-  {
-    "datetime_start": "2026-03-01T16:51:10",
-    "datetime_end": "2026-03-01T16:51:10",
-    "sci_name": "Fringilla coelebs",
-    "com_name": "Pinson des arbres"
   }
 ]
