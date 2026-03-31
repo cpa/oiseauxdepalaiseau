@@ -1,6 +1,6 @@
 [
   {
-    "datetime_start": "2026-03-31T08:16:15",
+    "datetime_start": "2026-03-31T08:17:17",
     "datetime_end": "2026-03-31T08:15:32",
     "sci_name": "Phylloscopus collybita",
     "com_name": "Pouillot véloce"
@@ -222400,17 +222400,5 @@
     "datetime_end": "2026-03-01T08:21:33",
     "sci_name": "Turdus iliacus",
     "com_name": "Grive mauvis"
-  },
-  {
-    "datetime_start": "2026-03-01T08:18:00",
-    "datetime_end": "2026-03-01T08:18:00",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-03-01T08:17:24",
-    "datetime_end": "2026-03-01T08:17:24",
-    "sci_name": "Sitta europaea",
-    "com_name": "Sittelle torchepot"
   }
 ]
