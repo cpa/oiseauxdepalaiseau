@@ -219940,17 +219940,5 @@
     "datetime_end": "2026-03-01T03:43:03",
     "sci_name": "Erithacus rubecula",
     "com_name": "Rougegorge familier"
-  },
-  {
-    "datetime_start": "2026-03-01T03:42:57",
-    "datetime_end": "2026-03-01T03:42:57",
-    "sci_name": "Parus major",
-    "com_name": "Mésange charbonnière"
-  },
-  {
-    "datetime_start": "2026-03-01T03:42:40",
-    "datetime_end": "2026-03-01T03:42:03",
-    "sci_name": "Erithacus rubecula",
-    "com_name": "Rougegorge familier"
   }
 ]
